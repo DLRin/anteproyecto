@@ -1,0 +1,413 @@
+\subsection*{Prototipo mínimo viable}
+\addcontentsline{toc}{subsection}{Producto mínimo viable}
+
+Para poder construir y desarrollar el prototipo mínimo viable, se usará un estilo de arquitectura por cadas, dentro de la cual, cada capa se encarga de tareas específicas, tales como veremos a continuación. Este enfoque nos permite además organizarnos mejor, ser modulares, mantener y escalar el sistema.
+
+Se seleccionó la arquitectura por medio de capas debido a que es una de las arquitecturas mas comúnmente usadas y conocidas dentro del mundo del diseño de software, lo que proporcionará a nuestro equipo una mayor facilidad en el momento de guardarse en el desarrollo y documentar el sistema.
+
+A continuación detallamos las tecnologías que usaremos y las razones por las cuales fueron seleccionadas para el proyecto:
+
+\subsubsection*{Tecnologías}
+\addcontentsline{toc}{subsubsection}{Tecnologías}
+
+\subsubsection*{Requerimientos}
+\addcontentsline{toc}{subsubsection}{Requerimientos}
+A continuación definimos los requerimientos, los cuales definen la funcionalidad y el propósito de una pieza particular de software o aplicación.
+
+\paragraph*{Requerimientos funcionales}
+\addcontentsline{toc}{paragraph}{Requerimientos funcionales}
+Los requerimientos funcionales describen las acciones específicas que debe realizar el sistema, estos requerimientos funcionales se describen a continuación:
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF01 \\ \hline
+		\textbf{Nombre del requerimiento} & Registro de usuarios \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Descripción} & La plataforma debe permitir el registro de usuarios por medio de un formularios que capture el nombre, el correo electrónico y la contraseña. \\ \hline
+		\textbf{Criterio de aceptación} & Los usuarios sean capaces de registrarse correctamente y recibir un correo de confirmación al registrarse. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF02 \\ \hline
+		\textbf{Nombre del requerimiento} & Iniciar sesión \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Descripción} & El sistema debe permitir a los usuarios registrados iniciar sesión utilizando correo electrónico y contraseña \\ \hline
+		\textbf{Criterio de aceptación} & El usuario inicia sesión correctamente si todas las credenciales dadas son válidas. Si son incorrectas, mostrará un mensaje de error. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF03 \\ \hline
+		\textbf{Nombre del requerimiento} & Gestión de perfil de usuario \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Descripción} & El usuario puede completar y editar su perfil personal y financiero básico (edad, ingresos, metas, etc.) para personalizar la experiencia. \\ \hline
+		\textbf{Criterio de aceptación} & El perfil editable se guarda correctamente; al actualizar datos, la aplicación muestra la información nueva en el perfil. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF04 \\ \hline
+		\textbf{Nombre del requerimiento} & Simulador de escenarios ficticios \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & Ofrecer simuladores interactivos de ahorro, inversión y presupuesto adaptados al perfil del usuario. \\ \hline
+		\textbf{Criterio de aceptación} & Al ingresar parámetros (monto, tasa, plazo), el simulador genera escenarios comparativos; se presenta resultados en gráficos o tabla coherentes con datos de entrada. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF05 \\ \hline
+		\textbf{Nombre del requerimiento} & Cálculo financiero personalizado \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & Incluir calculadoras para préstamos, ahorro e inversión que realicen proyecciones financieras. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario ingresa valores (capital, tasa, tiempo) y la calculadora muestra resultados correctos (p.ej. cuota mensual, interés acumulado) según fórmulas estándar. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF06 \\ \hline
+		\textbf{Nombre del requerimiento} & Gestión de presupuesto y ahorro \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Estudio de usabilidad \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & Módulo para registrar ingresos y gastos con interfaz intuitiva e incentivos (puntos o insignias) al alcanzar metas de ahorro. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario añade o clasifica transacciones; la app actualiza totales y gráficos de presupuesto, y otorga recompensas al lograr metas definidas (ver perfil con puntos/insignias). \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF07 \\ \hline
+		\textbf{Nombre del requerimiento} & Sistema de alertas y recordatorios \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & Enviar notificaciones inteligentes sobre fechas de pago, vencimientos o metas de ahorro. \\ \hline
+		\textbf{Criterio de aceptación} & Se programa una alerta antes de cada fecha límite configurada; en pruebas la app envía la notificación en el tiempo esperado. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF08 \\ \hline
+		\textbf{Nombre del requerimiento} & Adquisición de plan de suscripción \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Comercialización \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & El sistema debe ofrecer al usuario la posiblidad de seleccionar y suscribirse a la plataforma, ofreciendo un mayor número de características y menores límites. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario puede seleccionar y adquirir la suscripción directamente desde el sistema, con un proceso de pago en línea exitoso y confirmando la suscripción. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF09 \\ \hline
+		\textbf{Nombre del requerimiento} & Chat en línea con asesores \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario \\ \hline
+		\textbf{Descripción} & Canal de chat en tiempo real con asesores financieros para consultas personalizadas. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario inicia un chat y envía mensajes; un asesor responde en un plazo razonable. Se verifica la comunicación básica (envío/recepción de mensajes). \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF10 \\ \hline
+		\textbf{Nombre del requerimiento} & Gestión de clientes \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Gestión de usuarios \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Asesor \\ \hline
+		\textbf{Descripción} & El sistema permite al asesor la gestión de múltiples clientes y también la organización de los chats correspondientes. \\ \hline
+		\textbf{Criterio de aceptación} & Los múltiples clientes están organizados y categorizados correctamente, siendo accesibles desde el perfil del asesor. \\ \hline
+	\end{tabular}
+\end{table}
+
+\paragraph*{Requerimientos no funcionales}
+\addcontentsline{toc}{paragraph}{Requerimientos no funcionales}
+Los requerimientos no funcionales describen las cualidades y estándares que debe tener el sistema, su comportamiento, y otros aspectos. Estos requerimientos no funcionales se describen a continuación:
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF01 \\ \hline
+		\textbf{Nombre del requerimiento} & Compatibilidad web \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Tendencias tecnológicas \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Descripción} & Aplicación nativa o multiplataforma para dispositivos de computadora, optimizada para distintos tamaños de pantalla. \\ \hline
+		\textbf{Criterio de aceptación} & Se ejecuta en buscadores web; la interfaz se adapta correctamente sin elementos desalineados. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF02 \\ \hline
+		\textbf{Nombre del requerimiento} & Interfaz intuitiva y amigable \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Estudio de usabilidad \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Descripción} & Aplicación web optimizada para distintos tamaños de pantalla. \\ \hline
+		\textbf{Criterio de aceptación} & En pruebas de usuario, al menos el 80\% completa tareas básicas (registro, simulación) sin asistencia. La interfaz es valorada como fácil de usar en encuestas. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF03 \\ \hline
+		\textbf{Nombre del requerimiento} & Acceso a funcionalidades por rol \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Gestión de usuarios \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Descripción} & El sistema deberá permitir el acceso a diferentes funcionalidades dependiendo del rol que tenga el usuario (administrador, consultor, plan pagado o plan gratuito). Además cada rol debe tener permisos en específico que limiten o amplien el acceso a ciertas secciones o funciones dentro de la plataforma. \\ \hline
+		\textbf{Criterio de aceptación} & Las personas que ingresen a nuestra plataforma tendrán su rol correctamente al iniciar sesión con sus cuentas. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF04 \\ \hline
+		\textbf{Nombre del requerimiento} & Seguridad de la información \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Normativa legal de seguridad \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Descripción} & Protección de datos personales y financieros: cifrado en tránsito (HTTPS/TLS) y reposo; autenticación segura (idealmente 2FA opcional). \\ \hline
+		\textbf{Criterio de aceptación} & El sistema utiliza protocolos de cifrado estándar (TLS 1.2+); las contraseñas están encriptadas. En pruebas de penetración, no se obtienen datos sensibles. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF05 \\ \hline
+		\textbf{Nombre del requerimiento} & Privacidad del usuario \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Legislación de protección de datos \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Descripción} & Cumplimiento de leyes colombianas de datos (ej. Ley 1581/2012): obtener consentimiento informado antes de recolectar datos. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario acepta política de privacidad al registrarse; la app no comparte datos sin permiso. Se verifica que exista consentimiento explícito. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF06 \\ \hline
+		\textbf{Nombre del requerimiento} & Rendimiento \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Experiencia de usuario \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Descripción} & Operaciones clave (simulaciones, navegación) deben responder rápido (p.ej. <5 segundos), incluso con datos moderados. \\ \hline
+		\textbf{Criterio de aceptación} & Mediciones de rendimiento indican tiempo de respuesta promedio < 5s bajo carga normal. El inicio de la app carga en menos de 3,5s en dispositivo estándar. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF07 \\ \hline
+		\textbf{Nombre del requerimiento} & Disponibilidad y confiabilidad \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Acuerdo de Nivel de Servicio (SLA) \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Descripción} & Sistema con alta disponibilidad (por ejemplo, 95\% de uptime mensual) y respaldos periódicos automáticos de los datos, incluidos perfiles y planes adquiridos. \\ \hline
+		\textbf{Criterio de aceptación} & Registros de sistema muestran al menos un 95\% de uptime. Al simular una interrupción, el servicio se restablece automáticamente o en menos de 1 hora según lo establecido, además de tener una copia de seguridad con los datos almacenados. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF08 \\ \hline
+		\textbf{Nombre del requerimiento} & Accesibilidad \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Requerimientos de accesibilidad \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Descripción} & Cumplir estándares básicos (p.ej. WCAG 2.1 AA): contraste adecuado, etiquetas en controles, navegación compatible con lectores de pantalla. \\ \hline
+		\textbf{Criterio de aceptación} & Verificación WCAG: textos legibles y contrastados, elementos interactivos etiquetados. Se confirma funcionalidad con un lector de pantalla. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF09 \\ \hline
+		\textbf{Nombre del requerimiento} & Mantenibilidad \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Buenas prácticas de desarrollo \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Descripción} & Código fuente modular y documentado (comentarios, manual de usuario) para facilitar futuras actualizaciones o mantenimiento. \\ \hline
+		\textbf{Criterio de aceptación} & Existe documentación técnica y de usuario; otro desarrollador puede entender la arquitectura principal y los flujos de datos consultando los documentos. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|s{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RNF10 \\ \hline
+		\textbf{Nombre del requerimiento} & Escalabilidad \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & No funcional \\ \hline
+		\textbf{Origen de requerimiento} & Plan de Negocio e infraestructura \\ \hline
+		\textbf{Prioridad} & Baja \\ \hline
+		\textbf{Descripción} & Arquitectura preparada para crecer: puede escalar agregando recursos (servidores, base de datos) conforme aumentan usuarios. \\ \hline
+		\textbf{Criterio de aceptación} & El diseño contempla el uso de infraestructura en nube escalable. En prueba de carga, el servicio soporta X usuarios concurrentes sin degradarse significativamente. \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection*{Casos de uso}
+\addcontentsline{toc}{subsubsection}{Casos de uso}
+Los casos de uso describen detalladamente cómo un usuario interactúa con nuestro sistema para alcanzar un objetivo, a continuación, mostramos los casos de usos para los requerimientos funcionales dados anteriormente:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF01.png}
+	\caption[{Diagrama de caso de uso RF01.}]{\centering Diagrama de caso de uso RF01. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf01}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF02.png}
+	\caption[{Diagrama de caso de uso RF02.}]{\centering Diagrama de caso de uso RF02. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf02}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF03.png}
+	\caption[{Diagrama de caso de uso RF03.}]{\centering Diagrama de caso de uso RF03. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf03}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF04.png}
+	\caption[{Diagrama de caso de uso RF04.}]{\centering Diagrama de caso de uso RF04. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf04}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF05.png}
+	\caption[{Diagrama de caso de uso RF05.}]{\centering Diagrama de caso de uso RF05. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf05}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF06.png}
+	\caption[{Diagrama de caso de uso RF06.}]{\centering Diagrama de caso de uso RF06. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf06}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF07.png}
+	\caption[{Diagrama de caso de uso RF07.}]{\centering Diagrama de caso de uso RF07. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf07}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF08.png}
+	\caption[{Diagrama de caso de uso RF08.}]{\centering Diagrama de caso de uso RF08. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf08}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF09.png}
+	\caption[{Diagrama de caso de uso RF09.}]{\centering Diagrama de caso de uso RF09. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf09}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{Imagenes/CasoUsoRF10.png}
+	\caption[{Diagrama de caso de uso RF10.}]{\centering Diagrama de caso de uso RF10. \textit{Fuente:} Autores.}
+	\label{fig:diagramacasousorf10}
+\end{figure}
+
+\subsubsection*{Vistas principales del prototipo}
+\addcontentsline{toc}{subsubsection}{Vistas principales del prototipo}
+
+Continuando con lo dicho anteriormente en las historias de usuario y los casos de uso, se adjunta algunas vistas base del prototipo. Las siguientes ilustraciones para diseñar el modelo fueron obtenidas del sitio.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=13cm]{Imagenes/EduFinanzasPP.png}
+	\caption[{Vista principal.}]{\centering Vista principal. \textit{Fuente:} Autores.}
+	\label{fig:vistaprincipal}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=13cm]{Imagenes/EduFinanzasPPF.png}
+	\caption[{Vista de la página de progreso.}]{\centering Vista de la página de progreso. \textit{Fuente:} Autores.}
+	\label{fig:vistaprogreso}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=13cm]{Imagenes/EduFinanzasPV.png}
+	\caption[{Vista de la página de videoteca.}]{\centering Vista de la página de videoteca. \textit{Fuente:} Autores.}
+	\label{fig:vistavideoteca}
+\end{figure}

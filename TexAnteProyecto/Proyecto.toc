@@ -1,0 +1,60 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Introducción}{3}{}%
+\contentsline {section}{Planteamiento del Problema}{3}{}%
+\contentsline {subsection}{Descripción del Problema}{5}{}%
+\contentsline {subsection}{Formulación del Problema}{6}{}%
+\contentsline {subsection}{Justificación del Problema}{6}{}%
+\contentsline {section}{Objetivos}{8}{}%
+\contentsline {subsection}{Objetivo General}{8}{}%
+\contentsline {subsection}{Objetivo Específicos}{8}{}%
+\contentsline {section}{Marco Teórico}{9}{}%
+\contentsline {subsection}{Definiciones previas}{9}{}%
+\contentsline {subsubsection}{Finanzas personales}{9}{}%
+\contentsline {subsubsection}{Nómadas digitales}{9}{}%
+\contentsline {subsubsection}{Plan de negocio}{10}{}%
+\contentsline {paragraph}{Asesoramiento financiero}{11}{}%
+\contentsline {subsubsection}{Herramientas tecnológicas para el asesoramiento financiero}{12}{}%
+\contentsline {paragraph}{Alfabetización financiera}{13}{}%
+\contentsline {paragraph}{Educación financiera}{14}{}%
+\contentsline {paragraph}{Inclusión financiera}{14}{}%
+\contentsline {paragraph}{Tecnología financiera (FinTech)}{15}{}%
+\contentsline {paragraph}{Bienestar financiero}{15}{}%
+\contentsline {paragraph}{Presupuesto personal}{16}{}%
+\contentsline {subsection}{Análisis de competencia}{18}{}%
+\contentsline {subsection}{Análisis económico}{20}{}%
+\contentsline {subsection}{Marco referencial}{21}{}%
+\contentsline {subsection}{Antecedentes}{23}{}%
+\contentsline {subsubsection}{Nivel regional}{23}{}%
+\contentsline {subsubsection}{Nivel global}{26}{}%
+\contentsline {paragraph}{Niveles e Iniciativas Mundiales de Alfabetización Financiera}{27}{}%
+\contentsline {paragraph}{Participación del sector privado y casos de éxito}{28}{}%
+\contentsline {subsection}{Conceptos de Modelo de Negocio}{30}{}%
+\contentsline {subsubsection}{Modelo de Negocio}{30}{}%
+\contentsline {subsubsection}{Modelo de Canvas}{32}{}%
+\contentsline {paragraph}{Justificación financiera base}{33}{}%
+\contentsline {paragraph}{Costos operativos mensuales}{37}{}%
+\contentsline {paragraph}{Ingresos proyectados}{38}{}%
+\contentsline {section}{Alcances y Limitaciones}{43}{}%
+\contentsline {subsection}{Alcances}{43}{}%
+\contentsline {subsection}{Limitaicones}{44}{}%
+\contentsline {section}{Modelo de Negocio}{45}{}%
+\contentsline {subsection}{Segmento del Mercado (SM)}{46}{}%
+\contentsline {subsection}{Propuesta de Valor (PV)}{46}{}%
+\contentsline {subsection}{Canales de Distribución (CD)}{46}{}%
+\contentsline {subsection}{Relaciones con Clientes (CLI)}{47}{}%
+\contentsline {subsection}{Fuentes de Ingresos (FI)}{47}{}%
+\contentsline {subsection}{Actividades Clave (AC)}{47}{}%
+\contentsline {subsection}{Recursos Clave (RC)}{48}{}%
+\contentsline {subsection}{Socios Clave (SC)}{48}{}%
+\contentsline {subsection}{Estructura de Costos(EC)}{48}{}%
+\contentsline {section}{Metodología}{49}{}%
+\contentsline {subsection}{Fase 1: Presentación y compromiso del equipo}{49}{}%
+\contentsline {subsection}{Fase 2: Análisis de la situación}{50}{}%
+\contentsline {subsection}{Fase 3: Definición de la empresa}{50}{}%
+\contentsline {subsection}{Fase 4: Estructuración}{51}{}%
+\contentsline {subsection}{Cronograma}{52}{}%
+\contentsline {section}{Producto Mínimo Viable}{54}{}%
+\contentsline {subsection}{Tecnología}{54}{}%
+\contentsline {subsection}{Presupuesto}{55}{}%
+\contentsline {section}{Anexos}{57}{}%
+\contentsline {section}{Referencias}{59}{}%

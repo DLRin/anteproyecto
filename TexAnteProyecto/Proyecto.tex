@@ -1,0 +1,83 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage[spanish]{babel}
+
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{array, multirow, multicol}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{longtable}
+\usepackage{tabularray}
+\usepackage{color}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{adjustbox}
+\usepackage{float}
+
+\DeclareUnicodeCharacter{202F}{\,}
+
+\titleformat{\section}
+	{\centering\normalsize\bfseries}
+	{}
+	{0pt}
+	{}
+
+\titleformat{\subsection}
+	{\normalsize\bfseries\raggedright}
+	{}
+	{0pt}
+	{}
+
+\titleformat{\subsubsection}
+	{\normalsize\itshape\bfseries\raggedright}
+	{}
+	{0pt}
+	{}
+	
+\titleformat{\paragraph}
+	{\normalsize\bfseries\raggedright}
+	{}
+	{0pt}
+	{\hspace*{0.6cm}}
+
+\doublespacing
+
+\title{
+	Plan de Negocios para Servicio de Planificación Financiera Dirigido a Personas sin Conocimientos en Finanzas en Bogotá
+	\vspace{1cm}
+}
+\author{
+	González Maldonado, Joan Steven\\
+	\texttt{20182020104}
+	\and
+	Rincón Ovalle, David Leonardo\\
+	\texttt{20201020075}
+	\vspace{2.2cm}
+}
+\date{
+	\normalsize
+	\textbf{Caso de Estudio:} Nómadas Digitales\\
+	Proyecto de Emprendimiento para optar por el título de Ingeniero(a) de Sistemas\\
+	\vspace{2cm}
+	\includegraphics[width=2cm]{Imagenes/EscudoUD.png}\\
+	Universidad Distrital Francisco José de Caldas\\
+	Facultad de Ingeniería\\
+	Colombia, Bogotá D.C.\\
+	Septiembre de 2025\\
+}
+
+\nocite{*}
+
+\begin{document}
+	\maketitle
+	
+	\include{Contenido/Indice}
+	
+	\addcontentsline{toc}{section}{Referencias}
+	\bibliographystyle{plain}
+	\bibliography{./Bibliografia}
+	
+\end{document}

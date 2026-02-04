@@ -1,0 +1,102 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{csquotes}
+\usepackage[style=apa,backend=biber,citestyle=apa]{biblatex}
+
+\addbibresource{./Bibliografia.bib}
+
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{array, multirow, multicol}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{longtable}
+\usepackage{tabularray}
+\usepackage{color}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{adjustbox}
+\usepackage{float}
+\usepackage{fancyhdr}
+
+\newcolumntype{a}{>{\columncolor[HTML]{fef49d}} m}
+\newcolumntype{s}{>{\columncolor[HTML]{b8ddff}} m}
+
+\DeclareUnicodeCharacter{202F}{\,}
+
+\titleformat{\section}
+	{\centering\normalsize\bfseries}
+	{}
+	{0pt}
+	{}
+
+\titleformat{\subsection}
+	{\normalsize\bfseries\raggedright}
+	{}
+	{0pt}
+	{}
+
+\titleformat{\subsubsection}
+	{\normalsize\itshape\bfseries\raggedright}
+	{}
+	{0pt}
+	{}
+	
+\titleformat{\paragraph}
+	{\normalsize\bfseries\raggedright}
+	{}
+	{0pt}
+	{\hspace*{0.6cm}}
+
+\usepackage[hidelinks]{hyperref}
+\doublespacing
+
+\title{
+	Plan de Negocios para el Aprendizaje de Finanzas para Personas No Financieras.
+	\vspace{1cm}
+}
+\author{
+	Morales Segura, Leidy Marcela\\
+	\texttt{20112020052}
+	\and
+	Rincón Ovalle, David Leonardo\\
+	\texttt{20201020075}
+	\vspace{2.2cm}
+}
+\date{
+	\normalsize
+	\textbf{Caso de Estudio:} Nómadas Digitales\\
+	Proyecto de Emprendimiento para optar por el título de Ingeniero(a) de Sistemas\\
+	\vspace{2cm}
+	\includegraphics[width=2cm]{Imagenes/EscudoUD.png}\\
+	Universidad Distrital Francisco José de Caldas\\
+	Facultad de Ingeniería\\
+	Colombia, Bogotá D.C.\\
+	Febrero de 2026\\
+}
+
+\addto\captionsspanish{
+	\renewcommand{\tablename}{Tabla}
+	\renewcommand{\listtablename}{Índice de tablas}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{PLAN DE NEGOCIOS PARA EL APRENDIZAJE DE\\
+FINANZAS PARA PERSONAS NO FINANCIERAS}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[R]{\thepage}
+
+\begin{document}
+	\maketitle
+	\thispagestyle{empty}
+	
+	\include{Contenido/Indice}
+	
+	\addcontentsline{toc}{section}{Referencias}
+	\printbibliography
+	
+\end{document}
