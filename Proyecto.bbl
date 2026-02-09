@@ -36,6 +36,7 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -50,6 +51,241 @@
       \endverb
       \verb{url}
       \verb https://www.bancadelasoportunidades.gov.co/sites/default/files/2024-09/Recomendaciones-de-inclusion-financiera-para-los-gobiernos-locales-fwwb.pdf
+      \endverb
+    \endentry
+    \entry{BancadeOportunidades01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
+           family={{Banca de las Oportunidades}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhashraw}{38b182c5379280d776a15959a6593305}
+      \strng{bibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorbibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authornamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reporte de Inclusión Financiera 2023: nuevos acances y retos en Colombia}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+      \verb{url}
+      \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+    \endentry
+    \entry{ComisionIntersectorial01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c25c8fbcb1afeb83eff4493786e3503}{%
+           family={{Comisión Intersectorial para la Educación Económica y Financiera}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{fullhash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{fullhashraw}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{bibnamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorbibnamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authornamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorfullhash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorfullhashraw}{2c25c8fbcb1afeb83eff4493786e3503}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Capacidades financieras en Colombia: resultados de la encuesta nacional sobre comportamientos, actitudes y conocimientos financieros}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+    \endentry
+    \entry{UniversidadLibre01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dc33f3359593950afdf3da939715071}{%
+           family={{J. M. González Acosta}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Libre}%
+      }
+      \strng{namehash}{6dc33f3359593950afdf3da939715071}
+      \strng{fullhash}{6dc33f3359593950afdf3da939715071}
+      \strng{fullhashraw}{6dc33f3359593950afdf3da939715071}
+      \strng{bibnamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorbibnamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authornamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorfullhash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorfullhashraw}{6dc33f3359593950afdf3da939715071}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Importancia de las finanzas personales para la toma de decisiones}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://repository.unilibre.edu.co/bitstream/handle/10901/15936/Articulo.pdf?sequence=2&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://repository.unilibre.edu.co/bitstream/handle/10901/15936/Articulo.pdf?sequence=2&isAllowed=y
+      \endverb
+    \endentry
+    \entry{RevistaCIES01}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9bb98afcf9c0b4f07e950542ceccf41}{%
+           family={{J. T. Cifuentes y J. B. Hernández}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Medellín, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Institución Universitaria Escolme}%
+      }
+      \strng{namehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{fullhash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{fullhashraw}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{bibnamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorbibnamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authornamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorfullhash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorfullhashraw}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2216-0167}
+      \field{journaltitle}{Revista CIES}
+      \field{number}{1}
+      \field{title}{Innovación y desarrollo de las Fintech en Colombia: un análisis de la literatura}
+      \field{volume}{16}
+      \field{year}{2025}
+      \field{pages}{7\bibrangedash 23}
+      \range{pages}{17}
+      \verb{urlraw}
+      \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+      \verb{url}
+      \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+    \endentry
+    \entry{CESA01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3849e6791dc3fec9f10aa4ea1b934815}{%
+           family={{N. G. del Hierro y J. D. Saaibi Rey}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Colegio de Estudios Superiores de Administración}%
+      }
+      \strng{namehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{fullhash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{fullhashraw}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{bibnamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorbibnamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authornamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorfullhash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorfullhashraw}{3849e6791dc3fec9f10aa4ea1b934815}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Era Digital y la Gestión Financiera Personal: Un Estudio sobre Alfabetismo Financiero Digital en Jóvenes Universitarios de Bogotá}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+      \verb{url}
+      \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+    \endentry
+    \entry{Economipedia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc0568d4b6823158fd4753c694fb5446}{%
+           family={{R. Peiró}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{fullhash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{fullhashraw}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{bibnamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorbibnamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authornamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorfullhash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorfullhashraw}{cc0568d4b6823158fd4753c694fb5446}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modelo de negocio}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://economipedia.com/definiciones/modelo-de-negocio.html
+      \endverb
+      \verb{url}
+      \verb https://economipedia.com/definiciones/modelo-de-negocio.html
+      \endverb
+    \endentry
+    \entry{BancoMundial01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ef3c594dca3dce67d8a14a950f20141}{%
+           family={{R. Reddy, M. Bruhm y C. Tan}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco Mundial}%
+      }
+      \strng{namehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{fullhash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{fullhashraw}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{bibnamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorbibnamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authornamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorfullhash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorfullhashraw}{0ef3c594dca3dce67d8a14a950f20141}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estrategia nacional de educación económica y financiera de Colombia}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
@@ -104,6 +340,7 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -118,6 +355,241 @@
       \endverb
       \verb{url}
       \verb https://www.bancadelasoportunidades.gov.co/sites/default/files/2024-09/Recomendaciones-de-inclusion-financiera-para-los-gobiernos-locales-fwwb.pdf
+      \endverb
+    \endentry
+    \entry{BancadeOportunidades01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
+           family={{Banca de las Oportunidades}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhashraw}{38b182c5379280d776a15959a6593305}
+      \strng{bibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorbibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authornamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reporte de Inclusión Financiera 2023: nuevos acances y retos en Colombia}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+      \verb{url}
+      \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+    \endentry
+    \entry{ComisionIntersectorial01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c25c8fbcb1afeb83eff4493786e3503}{%
+           family={{Comisión Intersectorial para la Educación Económica y Financiera}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{fullhash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{fullhashraw}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{bibnamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorbibnamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authornamehash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorfullhash}{2c25c8fbcb1afeb83eff4493786e3503}
+      \strng{authorfullhashraw}{2c25c8fbcb1afeb83eff4493786e3503}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Capacidades financieras en Colombia: resultados de la encuesta nacional sobre comportamientos, actitudes y conocimientos financieros}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+    \endentry
+    \entry{UniversidadLibre01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dc33f3359593950afdf3da939715071}{%
+           family={{J. M. González Acosta}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Libre}%
+      }
+      \strng{namehash}{6dc33f3359593950afdf3da939715071}
+      \strng{fullhash}{6dc33f3359593950afdf3da939715071}
+      \strng{fullhashraw}{6dc33f3359593950afdf3da939715071}
+      \strng{bibnamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorbibnamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authornamehash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorfullhash}{6dc33f3359593950afdf3da939715071}
+      \strng{authorfullhashraw}{6dc33f3359593950afdf3da939715071}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Importancia de las finanzas personales para la toma de decisiones}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://repository.unilibre.edu.co/bitstream/handle/10901/15936/Articulo.pdf?sequence=2&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://repository.unilibre.edu.co/bitstream/handle/10901/15936/Articulo.pdf?sequence=2&isAllowed=y
+      \endverb
+    \endentry
+    \entry{RevistaCIES01}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9bb98afcf9c0b4f07e950542ceccf41}{%
+           family={{J. T. Cifuentes y J. B. Hernández}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Medellín, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Institución Universitaria Escolme}%
+      }
+      \strng{namehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{fullhash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{fullhashraw}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{bibnamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorbibnamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authornamehash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorfullhash}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \strng{authorfullhashraw}{a9bb98afcf9c0b4f07e950542ceccf41}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2216-0167}
+      \field{journaltitle}{Revista CIES}
+      \field{number}{1}
+      \field{title}{Innovación y desarrollo de las Fintech en Colombia: un análisis de la literatura}
+      \field{volume}{16}
+      \field{year}{2025}
+      \field{pages}{7\bibrangedash 23}
+      \range{pages}{17}
+      \verb{urlraw}
+      \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+      \verb{url}
+      \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+    \endentry
+    \entry{CESA01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3849e6791dc3fec9f10aa4ea1b934815}{%
+           family={{N. G. del Hierro y J. D. Saaibi Rey}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Colegio de Estudios Superiores de Administración}%
+      }
+      \strng{namehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{fullhash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{fullhashraw}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{bibnamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorbibnamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authornamehash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorfullhash}{3849e6791dc3fec9f10aa4ea1b934815}
+      \strng{authorfullhashraw}{3849e6791dc3fec9f10aa4ea1b934815}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Era Digital y la Gestión Financiera Personal: Un Estudio sobre Alfabetismo Financiero Digital en Jóvenes Universitarios de Bogotá}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+      \verb{url}
+      \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+    \endentry
+    \entry{Economipedia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc0568d4b6823158fd4753c694fb5446}{%
+           family={{R. Peiró}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{fullhash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{fullhashraw}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{bibnamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorbibnamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authornamehash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorfullhash}{cc0568d4b6823158fd4753c694fb5446}
+      \strng{authorfullhashraw}{cc0568d4b6823158fd4753c694fb5446}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modelo de negocio}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://economipedia.com/definiciones/modelo-de-negocio.html
+      \endverb
+      \verb{url}
+      \verb https://economipedia.com/definiciones/modelo-de-negocio.html
+      \endverb
+    \endentry
+    \entry{BancoMundial01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ef3c594dca3dce67d8a14a950f20141}{%
+           family={{R. Reddy, M. Bruhm y C. Tan}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco Mundial}%
+      }
+      \strng{namehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{fullhash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{fullhashraw}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{bibnamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorbibnamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authornamehash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorfullhash}{0ef3c594dca3dce67d8a14a950f20141}
+      \strng{authorfullhashraw}{0ef3c594dca3dce67d8a14a950f20141}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estrategia nacional de educación económica y financiera de Colombia}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
