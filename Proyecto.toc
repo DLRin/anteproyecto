@@ -23,9 +23,12 @@
 \contentsline {subsection}{Análisis de competencia}{18}{figure.caption.6}%
 \contentsline {subsection}{Análisis económico}{20}{figure.caption.6}%
 \contentsline {subsection}{Marco referencial}{23}{figure.caption.6}%
-\contentsline {subsection}{Antecedentes}{24}{figure.caption.6}%
-\contentsline {subsubsection}{Nivel regional}{24}{section*.7}%
+\contentsline {subsection}{Antecedentes}{25}{figure.caption.6}%
+\contentsline {subsubsection}{Nivel regional}{25}{section*.7}%
 \contentsline {subsubsection}{Nivel global}{28}{figure.caption.8}%
 \contentsline {paragraph}{Niveles e Iniciativas Mundiales de Alfabetización Financiera}{29}{figure.caption.8}%
 \contentsline {paragraph}{Participación del sector privado y casos de éxito}{31}{figure.caption.8}%
-\contentsline {section}{Referencias}{33}{figure.caption.8}%
+\contentsline {subsection}{Conceptos de Modelo de Negocio}{33}{figure.caption.8}%
+\contentsline {subsubsection}{Modelo de Negocio}{33}{section*.9}%
+\contentsline {subsubsection}{Modelo Canvas}{35}{section*.9}%
+\contentsline {section}{Referencias}{37}{figure.caption.10}%
