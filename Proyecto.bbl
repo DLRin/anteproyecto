@@ -118,6 +118,42 @@
       \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
       \endverb
     \endentry
+    \entry{Baca2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09c278dcdd8f669ea9adfea469494a28}{%
+           family={Baca},
+           familyi={B\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Finnosummit}%
+      }
+      \strng{namehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{fullhash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{fullhashraw}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{bibnamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorbibnamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authornamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorfullhash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorfullhashraw}{09c278dcdd8f669ea9adfea469494a28}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discover Colombia’s Fintech Leaders of 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.finnosummit.com/en/discover-colombias-fintech-leaders-of-2025/
+      \endverb
+      \verb{url}
+      \verb https://www.finnosummit.com/en/discover-colombias-fintech-leaders-of-2025/
+      \endverb
+    \endentry
     \entry{BancadeOportunidades02}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -681,6 +717,76 @@
       \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
       \endverb
     \endentry
+    \entry{Finnovista2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcc6a20843bbe037d6c573e5f5203309}{%
+           family={{Finnovista}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Finnosummit}%
+      }
+      \strng{namehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{fullhash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{fullhashraw}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{bibnamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorbibnamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authornamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorfullhash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorfullhashraw}{dcc6a20843bbe037d6c573e5f5203309}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fintech Radar Colombia: VII Edición}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.finnovista.com/wp-content/uploads/2024/05/RADAR-COLOMBIA-ESPANOL-3.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.finnovista.com/wp-content/uploads/2024/05/RADAR-COLOMBIA-ESPANOL-3.pdf
+      \endverb
+    \endentry
+    \entry{Gaitan2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c330b8aeeefa3b119406bdf2dda0d405}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Felipe\bibnamedelima Gaitán},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{fullhash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{fullhashraw}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{bibnamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorbibnamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authornamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorfullhash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorfullhashraw}{c330b8aeeefa3b119406bdf2dda0d405}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Science}
+      \field{title}{Fintech in Colombia: The bet on financial technologies accessible to all}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.12804/dvcn_10336.42563_num7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.12804/dvcn_10336.42563_num7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.12804/dvcn_10336.42563_num7
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -1136,6 +1242,57 @@
       \endverb
       \verb{url}
       \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+    \endentry
+    \entry{Banrep_Mapeo2024}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6b8659077950bf0af3e3d4f2795203a7}{%
+           family={Rodríguez-Pinilla},
+           familyi={R\bibinithyphendelim P\bibinitperiod},
+           given={Diego\bibnamedelima Andrés},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e86270df79f579f82c942219e3c6d5d2}{%
+           family={Palomino-Maza},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Jesús\bibnamedelima Andrés},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cab6204b926455219dfe15eb8270b0f}{%
+           family={Plazas-López},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Christian\bibnamedelima Felipe},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{d9db29733f6942fd3a4f2b28e609895a}
+      \strng{fullhash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{fullhashraw}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{bibnamehash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authorbibnamehash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authornamehash}{d9db29733f6942fd3a4f2b28e609895a}
+      \strng{authorfullhash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authorfullhashraw}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reportes del Emisor}
+      \field{month}{11}
+      \field{number}{321}
+      \field{title}{Mapeo nacional de educación económica y financiera 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
+      \endverb
+      \verb{url}
+      \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
       \endverb
     \endentry
     \entry{Asobancaria02}{report}{}{}
@@ -1371,6 +1528,42 @@
       \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
       \endverb
     \endentry
+    \entry{Baca2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09c278dcdd8f669ea9adfea469494a28}{%
+           family={Baca},
+           familyi={B\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Finnosummit}%
+      }
+      \strng{namehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{fullhash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{fullhashraw}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{bibnamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorbibnamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authornamehash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorfullhash}{09c278dcdd8f669ea9adfea469494a28}
+      \strng{authorfullhashraw}{09c278dcdd8f669ea9adfea469494a28}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discover Colombia’s Fintech Leaders of 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.finnosummit.com/en/discover-colombias-fintech-leaders-of-2025/
+      \endverb
+      \verb{url}
+      \verb https://www.finnosummit.com/en/discover-colombias-fintech-leaders-of-2025/
+      \endverb
+    \endentry
     \entry{BancadeOportunidades02}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -1934,6 +2127,76 @@
       \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
       \endverb
     \endentry
+    \entry{Finnovista2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcc6a20843bbe037d6c573e5f5203309}{%
+           family={{Finnovista}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Finnosummit}%
+      }
+      \strng{namehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{fullhash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{fullhashraw}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{bibnamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorbibnamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authornamehash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorfullhash}{dcc6a20843bbe037d6c573e5f5203309}
+      \strng{authorfullhashraw}{dcc6a20843bbe037d6c573e5f5203309}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fintech Radar Colombia: VII Edición}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.finnovista.com/wp-content/uploads/2024/05/RADAR-COLOMBIA-ESPANOL-3.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.finnovista.com/wp-content/uploads/2024/05/RADAR-COLOMBIA-ESPANOL-3.pdf
+      \endverb
+    \endentry
+    \entry{Gaitan2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c330b8aeeefa3b119406bdf2dda0d405}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Felipe\bibnamedelima Gaitán},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{fullhash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{fullhashraw}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{bibnamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorbibnamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authornamehash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorfullhash}{c330b8aeeefa3b119406bdf2dda0d405}
+      \strng{authorfullhashraw}{c330b8aeeefa3b119406bdf2dda0d405}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Science}
+      \field{title}{Fintech in Colombia: The bet on financial technologies accessible to all}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.12804/dvcn_10336.42563_num7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.12804/dvcn_10336.42563_num7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.12804/dvcn_10336.42563_num7
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -2391,6 +2654,57 @@
       \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
       \endverb
     \endentry
+    \entry{Banrep_Mapeo2024}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6b8659077950bf0af3e3d4f2795203a7}{%
+           family={Rodríguez-Pinilla},
+           familyi={R\bibinithyphendelim P\bibinitperiod},
+           given={Diego\bibnamedelima Andrés},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e86270df79f579f82c942219e3c6d5d2}{%
+           family={Palomino-Maza},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Jesús\bibnamedelima Andrés},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cab6204b926455219dfe15eb8270b0f}{%
+           family={Plazas-López},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Christian\bibnamedelima Felipe},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{d9db29733f6942fd3a4f2b28e609895a}
+      \strng{fullhash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{fullhashraw}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{bibnamehash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authorbibnamehash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authornamehash}{d9db29733f6942fd3a4f2b28e609895a}
+      \strng{authorfullhash}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \strng{authorfullhashraw}{4664eb9a9e6cb6b1ef1b4941adaf3014}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reportes del Emisor}
+      \field{month}{11}
+      \field{number}{321}
+      \field{title}{Mapeo nacional de educación económica y financiera 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
+      \endverb
+      \verb{url}
+      \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
+      \endverb
+    \endentry
     \entry{Asobancaria02}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4ec4451529ae275a3ad6603e61e90610}{%
@@ -2524,6 +2838,15 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{Bibl013}
+  \missing{Bibl015}
+  \missing{Bibl023}
+  \missing{Bibl024}
+  \missing{Bibl026}
+  \missing{Bibl030}
+  \missing{Bibl031}
+  \missing{Bibl033}
+  \missing{Bibl034}
 \endrefsection
 \endinput
 

@@ -1,17 +1,28 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Proyecto.blg'
-[153] biber-MSWIN64:342> INFO - === 
-[203] Biber.pm:421> INFO - Reading 'Proyecto.bcf'
-[397] Biber.pm:1002> INFO - Found 38 citekeys in bib section 0
-[427] Biber.pm:4487> INFO - Processing section 0
-[440] Biber.pm:4678> INFO - Looking for bibtex file './Bibliografia.bib' for section 0
-[532] bibtex.pm:1713> INFO - LaTeX decoding ...
-[592] bibtex.pm:1519> INFO - Found BibTeX data source './Bibliografia.bib'
-[900] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[900] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[900] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[997] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[997] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[997] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1061] bbl.pm:676> INFO - Writing 'Proyecto.bbl' with encoding 'UTF-8'
-[1111] bbl.pm:779> INFO - Output to Proyecto.bbl
+[146] biber-MSWIN64:342> INFO - === 
+[206] Biber.pm:421> INFO - Reading 'Proyecto.bcf'
+[385] Biber.pm:1002> INFO - Found 51 citekeys in bib section 0
+[410] Biber.pm:4487> INFO - Processing section 0
+[424] Biber.pm:4678> INFO - Looking for bibtex file './Bibliografia.bib' for section 0
+[782] bibtex.pm:1713> INFO - LaTeX decoding ...
+[848] bibtex.pm:1519> INFO - Found BibTeX data source './Bibliografia.bib'
+[1099] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1099] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1099] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1186] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1186] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1186] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1238] bbl.pm:676> INFO - Writing 'Proyecto.bbl' with encoding 'UTF-8'
+[1289] bbl.pm:779> INFO - Output to Proyecto.bbl
+[1309] Biber.pm:132> WARN - legacy month field 'noviembre' in entry 'Banrep_Mapeo2024' is not an integer - this will probably not sort properly.
+[1309] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl026' (section 0)
+[1309] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl024' (section 0)
+[1309] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl023' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl015' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl013' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl034' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl031' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl030' (section 0)
+[1310] Biber.pm:132> WARN - I didn't find a database entry for 'Bibl033' (section 0)
+[1310] Biber.pm:134> INFO - WARNINGS: 10

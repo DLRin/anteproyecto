@@ -3147,6 +3147,38 @@
     <bcf:citekey order="74" intorder="1">Ley1735</bcf:citekey>
     <bcf:citekey order="75" intorder="1">Asobancaria02</bcf:citekey>
     <bcf:citekey order="76" intorder="1">Infobae01</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">Superintendencia01</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">Superintendencia01</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">BancoMundial01</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">ComisionIntersectorial01</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">Finnovista2024</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">Baca2025</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">Baca2025</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">Gaitan2023</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">Gaitan2023</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">Gaitan2023</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">Pulzo01</bcf:citekey>
+    <bcf:citekey order="87" intorder="2">Gaitan2023</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">DANE_Regiones</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">DANE_Regiones</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">Banrep_Mapeo2024</bcf:citekey>
+    <bcf:citekey order="97" intorder="2">DANE_Regiones</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">Bibl023</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">Bibl015</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">Bibl013</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">Bibl013</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">Bibl013</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">Bibl034</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">Bibl031</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">Bibl030</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">Bibl033</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
