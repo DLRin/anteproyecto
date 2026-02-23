@@ -3197,6 +3197,7 @@
     <bcf:citekey order="122" intorder="1">BusinessModel01</bcf:citekey>
     <bcf:citekey order="123" intorder="1">BusinessModel01</bcf:citekey>
     <bcf:citekey order="124" intorder="1">CEUPE01</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">BusinessModel01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

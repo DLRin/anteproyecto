@@ -31,4 +31,10 @@
 \contentsline {subsection}{Conceptos de Modelo de Negocio}{33}{figure.caption.8}%
 \contentsline {subsubsection}{Modelo de Negocio}{33}{section*.9}%
 \contentsline {subsubsection}{Modelo Canvas}{35}{section*.9}%
-\contentsline {section}{Referencias}{37}{figure.caption.10}%
+\contentsline {section}{Alcances y Limitaciones}{36}{figure.caption.10}%
+\contentsline {subsection}{Alcances}{36}{section*.11}%
+\contentsline {subsection}{Limitaciones}{37}{section*.11}%
+\contentsline {section}{Modelo de Negocio}{38}{section*.11}%
+\contentsline {subsection}{Segmento del Mercado (SM)}{39}{figure.caption.12}%
+\contentsline {subsection}{Propuesta de Valor (PV)}{39}{figure.caption.12}%
+\contentsline {section}{Referencias}{40}{figure.caption.12}%

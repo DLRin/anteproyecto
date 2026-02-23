@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  19 FEB 2026 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  23 FEB 2026 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -851,6 +851,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks32
 )
    defining Unicode char U+202F (decimal 8239)
+   defining Unicode char U+200B (decimal 8203)
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
@@ -955,7 +956,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
-3.
+4.
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -968,24 +969,24 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
  (Contenido/Indice.aux))
 \openout1 = `Proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1021,8 +1022,8 @@ LaTeX Font Info:    ... okay on input line 93.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 
@@ -1051,8 +1052,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Proyecto.bbl' found.
  (Proyecto.bbl)
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1088,34 +1089,34 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 94.
 
 (Proyecto.out) (Proyecto.out)
 \@outlinefile=\write4
 \openout4 = `Proyecto.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
 
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
 
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
-5.
+6.
 
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<Imagenes/EscudoUD.png, id=84, 504.38437pt x 645.16031pt>
+<Imagenes/EscudoUD.png, id=104, 504.38437pt x 645.16031pt>
 File: Imagenes/EscudoUD.png Graphic file (type png)
 <use Imagenes/EscudoUD.png>
-Package pdftex.def Info: Imagenes/EscudoUD.png  used on input line 95.
+Package pdftex.def Info: Imagenes/EscudoUD.png  used on input line 96.
 (pdftex.def)             Requested size: 56.9055pt x 72.7792pt.
 
 
@@ -1130,15 +1131,15 @@ UD.png>]
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
-\tf@toc=\write5
-\openout5 = `Proyecto.toc'.
-
 
 
 [1
 
-]
+])
+\tf@toc=\write5
+\openout5 = `Proyecto.toc'.
+
+
 
 [2] (Proyecto.lof
 LaTeX Info: Redefining \sptext on input line 1.
@@ -1185,7 +1186,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [2]
-<Imagenes/ArboldeProblemas.png, id=163, 610.53094pt x 447.17062pt>
+<Imagenes/ArboldeProblemas.png, id=190, 610.53094pt x 447.17062pt>
 File: Imagenes/ArboldeProblemas.png Graphic file (type png)
 <use Imagenes/ArboldeProblemas.png>
 Package pdftex.def Info: Imagenes/ArboldeProblemas.png  used on input line 11.
@@ -1286,7 +1287,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [11]
-<Imagenes/LogoBConomy.png, id=237, 415.5525pt x 122.4575pt>
+<Imagenes/LogoBConomy.png, id=264, 415.5525pt x 122.4575pt>
 File: Imagenes/LogoBConomy.png Graphic file (type png)
 <use Imagenes/LogoBConomy.png>
 Package pdftex.def Info: Imagenes/LogoBConomy.png  used on input line 48.
@@ -1328,7 +1329,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [15]
-<Imagenes/LogoNequi.png, id=275, 903.375pt x 508.14844pt>
+<Imagenes/LogoNequi.png, id=302, 903.375pt x 508.14844pt>
 File: Imagenes/LogoNequi.png Graphic file (type png)
 <use Imagenes/LogoNequi.png>
 Package pdftex.def Info: Imagenes/LogoNequi.png  used on input line 87.
@@ -1451,7 +1452,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [26]
-<Imagenes/LogoVivaSeguro.jpg, id=382, 325.215pt x 155.58125pt>
+<Imagenes/LogoVivaSeguro.jpg, id=409, 325.215pt x 155.58125pt>
 File: Imagenes/LogoVivaSeguro.jpg Graphic file (type jpg)
 <use Imagenes/LogoVivaSeguro.jpg>
 Package pdftex.def Info: Imagenes/LogoVivaSeguro.jpg  used on input line 23.
@@ -1534,7 +1535,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [34]
-<Imagenes/PlantillaModeloCanvas.jpg, id=463, 880.79062pt x 495.35063pt>
+<Imagenes/PlantillaModeloCanvas.jpg, id=490, 880.79062pt x 495.35063pt>
 File: Imagenes/PlantillaModeloCanvas.jpg Graphic file (type jpg)
 <use Imagenes/PlantillaModeloCanvas.jpg>
 Package pdftex.def Info: Imagenes/PlantillaModeloCanvas.jpg  used on input line
@@ -1549,7 +1550,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[35 <./Imagenes/PlantillaModeloCanvas.jpg>])
+[35 <./Imagenes/PlantillaModeloCanvas.jpg>]
+(Contenido/05. Alcances y Limitaciones/AlcancesyLimitaciones.tex
+(Contenido/05. Alcances y Limitaciones/Alcances.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 2.
+
+)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1558,7 +1566,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[36]
+[36] (Contenido/05. Alcances y Limitaciones/Limitaciones.tex))
+(Contenido/06. Modelo de Negocio/ModeloDeNegocio.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1567,10 +1576,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[37
+[37]
+<Imagenes/ModeloCanvas.png, id=505, 770.88pt x 578.16pt>
+File: Imagenes/ModeloCanvas.png Graphic file (type png)
+<use Imagenes/ModeloCanvas.png>
+Package pdftex.def Info: Imagenes/ModeloCanvas.png  used on input line 8.
+(pdftex.def)             Requested size: 426.79134pt x 320.08861pt.
 
-
-]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1579,14 +1591,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[38]
-Overfull \hbox (1.5583pt too wide) in paragraph at lines 101--101
-[][]\OT1/ptm/m/n/12 F. P[]ubli-ca. (2022). \OT1/ptm/m/it/12 De-cre-to 1297 de 2
-022\OT1/ptm/m/n/12 . []$https : / / www . funcionpublica . gov . co / eva / ges
-tornormativo /
- []
-
-
+[38 <./Imagenes/ModeloCanvas.png (PNG copy)>]
+(Contenido/06. Modelo de Negocio/SegmentoDelMercado.tex)
+(Contenido/06. Modelo de Negocio/PropuestaDeValor.tex)))
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1604,7 +1611,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[40]
+[40
+
+
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1614,6 +1624,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [41]
+Overfull \hbox (1.5583pt too wide) in paragraph at lines 102--102
+[][]\OT1/ptm/m/n/12 F. P[]ubli-ca. (2022). \OT1/ptm/m/it/12 De-cre-to 1297 de 2
+022\OT1/ptm/m/n/12 . []$https : / / www . funcionpublica . gov . co / eva / ges
+tornormativo /
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1631,7 +1648,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[43] (Proyecto.aux
+[43]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[44]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[45]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[46] (Proyecto.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1641,16 +1685,16 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `Proyecto.out' has not changed.
-(rerunfilecheck)             Checksum: A197E7E8D1B45C5D83EFC9657C4C4631;3829.
+(rerunfilecheck)             Checksum: F6611EEE5E3A16CF943088B6C58DC529;4761.
 Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 \openout1 = `Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26808 strings out of 468132
- 507047 string characters out of 5430698
- 1455512 words of memory out of 5000000
- 54936 multiletter control sequences out of 15000+600000
+ 26877 strings out of 468132
+ 510653 string characters out of 5430698
+ 1454568 words of memory out of 5000000
+ 54978 multiletter control sequences out of 15000+600000
  644592 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,90p,1517b,2903s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1661,9 +1705,9 @@ cmsy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier
 /utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on Proyecto.pdf (48 pages, 1124892 bytes).
+Output written on Proyecto.pdf (51 pages, 1512406 bytes).
 PDF statistics:
- 680 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
- 223 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 724 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 276 words of extra memory for PDF output out of 10000 (max. 10000000)
 
