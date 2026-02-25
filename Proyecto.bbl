@@ -1792,6 +1792,53 @@
       \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
       \endverb
     \endentry
+    \entry{Rodriguez2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=173183852f492c27b666dbd6dcec46cc}{%
+           family={Rodríguez-Rodríguez},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Luisa\bibnamedelima Fernanda},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f452569bd2ca88ba90563dade567b7}{%
+           family={González\bibnamedelima Rivera},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{fullhash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{fullhashraw}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{bibnamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorbibnamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authornamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorfullhash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorfullhashraw}{55c792e946080159f66a25ce5c0da8b7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Latinoamericana de Derecho Social}
+      \field{number}{41}
+      \field{title}{Alternativas para la protección de la seguridad social de los nómadas digitales: un análisis desde el derecho laboral colombiano}
+      \field{volume}{21}
+      \field{year}{2025}
+      \field{pages}{293\bibrangedash 318}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.22201/iij.24487899e.2025.41.19696
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
+      \endverb
+      \verb{url}
+      \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
+      \endverb
+    \endentry
     \entry{Asobancaria02}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4ec4451529ae275a3ad6603e61e90610}{%
@@ -3757,6 +3804,53 @@
       \endverb
       \verb{url}
       \verb https://publicaciones.banrepcultural.org/index.php/emisor/article/view/22294/22358
+      \endverb
+    \endentry
+    \entry{Rodriguez2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=173183852f492c27b666dbd6dcec46cc}{%
+           family={Rodríguez-Rodríguez},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Luisa\bibnamedelima Fernanda},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f452569bd2ca88ba90563dade567b7}{%
+           family={González\bibnamedelima Rivera},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{fullhash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{fullhashraw}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{bibnamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorbibnamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authornamehash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorfullhash}{55c792e946080159f66a25ce5c0da8b7}
+      \strng{authorfullhashraw}{55c792e946080159f66a25ce5c0da8b7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Latinoamericana de Derecho Social}
+      \field{number}{41}
+      \field{title}{Alternativas para la protección de la seguridad social de los nómadas digitales: un análisis desde el derecho laboral colombiano}
+      \field{volume}{21}
+      \field{year}{2025}
+      \field{pages}{293\bibrangedash 318}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.22201/iij.24487899e.2025.41.19696
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
+      \endverb
+      \verb{url}
+      \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
       \endverb
     \endentry
     \entry{Asobancaria02}{report}{}{}

@@ -12,16 +12,16 @@
 \contentsline {subsubsection}{Finanzas personales}{8}{section*.4}%
 \contentsline {subsubsection}{Nómadas digitales}{9}{section*.4}%
 \contentsline {subsubsection}{Plan de negocio}{10}{section*.4}%
-\contentsline {paragraph}{Asesoramiento financiero}{10}{section*.4}%
-\contentsline {subsubsection}{Herramientas tecnológicas para el asesoramiento financiero}{11}{section*.4}%
+\contentsline {paragraph}{Asesoramiento financiero}{11}{section*.4}%
+\contentsline {subsubsection}{Herramientas tecnológicas para el asesoramiento financiero}{12}{section*.4}%
 \contentsline {paragraph}{Alfabetización financiera}{13}{figure.caption.5}%
-\contentsline {paragraph}{Educación financiera}{13}{figure.caption.5}%
+\contentsline {paragraph}{Educación financiera}{14}{figure.caption.5}%
 \contentsline {paragraph}{Inclusión financiera}{14}{figure.caption.5}%
-\contentsline {paragraph}{Tecnología financiera (FinTech)}{14}{figure.caption.5}%
+\contentsline {paragraph}{Tecnología financiera (FinTech)}{15}{figure.caption.5}%
 \contentsline {paragraph}{Bienestar financiero}{15}{figure.caption.5}%
 \contentsline {paragraph}{Presupuesto personal}{16}{figure.caption.5}%
 \contentsline {subsection}{Análisis de competencia}{18}{figure.caption.6}%
-\contentsline {subsection}{Análisis económico}{20}{figure.caption.6}%
+\contentsline {subsection}{Análisis económico}{21}{figure.caption.6}%
 \contentsline {subsection}{Marco referencial}{23}{figure.caption.6}%
 \contentsline {subsection}{Antecedentes}{25}{figure.caption.6}%
 \contentsline {subsubsection}{Nivel regional}{25}{section*.7}%
@@ -36,5 +36,5 @@
 \contentsline {subsection}{Limitaciones}{37}{section*.11}%
 \contentsline {section}{Modelo de Negocio}{38}{section*.11}%
 \contentsline {subsection}{Segmento del Mercado (SM)}{39}{figure.caption.12}%
-\contentsline {subsection}{Propuesta de Valor (PV)}{39}{figure.caption.12}%
-\contentsline {section}{Referencias}{40}{figure.caption.12}%
+\contentsline {subsection}{Propuesta de Valor (PV)}{40}{figure.caption.12}%
+\contentsline {section}{Referencias}{41}{figure.caption.12}%
