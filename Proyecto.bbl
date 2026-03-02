@@ -283,7 +283,7 @@
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/hoy-inicia-la-global-money-week-2025-en-el-pais
       \endverb
     \endentry
-    \entry{BBVA02}{online}{}{}
+    \entry{BBVA03}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
            family={{Banco Bilbao Vizcaya Argentaria}},
@@ -298,6 +298,37 @@
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
       \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cuanto más sabes, mejor decides}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/cuanto-mas-sabes-mejor-decides/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/cuanto-mas-sabes-mejor-decides/
+      \endverb
+    \endentry
+    \entry{BBVA02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -328,7 +359,7 @@
       \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -988,6 +1019,43 @@
       \verb https://www.tech.gov.sg/technews/how-mymoneysense-can-make-financial-planning-less-challenging//
       \endverb
     \endentry
+    \entry{Investopedia02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9f5229247a4446f3a67fc327439573a}{%
+           family={Gratton},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Investopedia}%
+      }
+      \strng{namehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{fullhash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{fullhashraw}{c9f5229247a4446f3a67fc327439573a}
+      \strng{bibnamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorbibnamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authornamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorfullhash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorfullhashraw}{c9f5229247a4446f3a67fc327439573a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Porter's Five Forces Explained and How to Use the Model}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.investopedia.com/terms/p/porter.asp
+      \endverb
+      \verb{url}
+      \verb https://www.investopedia.com/terms/p/porter.asp
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -1014,6 +1082,36 @@
       \endverb
       \verb{url}
       \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{Hubspot01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22861b1d09c6123399252d34c57b04a2}{%
+           family={HubSport},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{fullhash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{fullhashraw}{22861b1d09c6123399252d34c57b04a2}
+      \strng{bibnamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorbibnamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authornamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorfullhash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorfullhashraw}{22861b1d09c6123399252d34c57b04a2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el Inbound Marketing?}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.hubspot.es/inbound-marketing
+      \endverb
+      \verb{url}
+      \verb https://www.hubspot.es/inbound-marketing
       \endverb
     \endentry
     \entry{InfoLaft01}{online}{}{}
@@ -1616,6 +1714,36 @@
       \verb https://economipedia.com/definiciones/modelo-de-negocio.html
       \endverb
     \endentry
+    \entry{Pragma01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f607fdcea4127aad4f0cdae948a4f3f7}{%
+           family={{Pragma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{fullhash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{fullhashraw}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{bibnamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorbibnamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authornamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorfullhash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorfullhashraw}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nequi, hacia la banca digital y abierta}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.pragma.co/es/casos-de-exito/nequi-plataforma-financiera-confiable
+      \endverb
+      \verb{url}
+      \verb https://www.pragma.co/es/casos-de-exito/nequi-plataforma-financiera-confiable
+      \endverb
+    \endentry
     \entry{RDominicana01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ecd8016372c9e6ed89fdfcb5827641e3}{%
@@ -1837,6 +1965,42 @@
       \endverb
       \verb{url}
       \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
+      \endverb
+    \endentry
+    \entry{EIP01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=295ab6c678c25d504c7e84f41d8a55ad}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Raúl},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Business School}%
+      }
+      \strng{namehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{fullhash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{fullhashraw}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{bibnamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorbibnamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authornamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorfullhash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorfullhashraw}{295ab6c678c25d504c7e84f41d8a55ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qué es Fintonic y cómo nos puede ayudar en el control financiero}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://eiposgrados.com/blog-direccion-financiera/que-es-fintonic-y-como-nos-puede-ayudar-en-el-control-financiero/
+      \endverb
+      \verb{url}
+      \verb https://eiposgrados.com/blog-direccion-financiera/que-es-fintonic-y-como-nos-puede-ayudar-en-el-control-financiero/
       \endverb
     \endentry
     \entry{Asobancaria02}{report}{}{}
@@ -2297,7 +2461,7 @@
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/hoy-inicia-la-global-money-week-2025-en-el-pais
       \endverb
     \endentry
-    \entry{BBVA02}{online}{}{}
+    \entry{BBVA03}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
            family={{Banco Bilbao Vizcaya Argentaria}},
@@ -2312,6 +2476,37 @@
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
       \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cuanto más sabes, mejor decides}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/cuanto-mas-sabes-mejor-decides/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/cuanto-mas-sabes-mejor-decides/
+      \endverb
+    \endentry
+    \entry{BBVA02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -2342,7 +2537,7 @@
       \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -3002,6 +3197,43 @@
       \verb https://www.tech.gov.sg/technews/how-mymoneysense-can-make-financial-planning-less-challenging//
       \endverb
     \endentry
+    \entry{Investopedia02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9f5229247a4446f3a67fc327439573a}{%
+           family={Gratton},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Investopedia}%
+      }
+      \strng{namehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{fullhash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{fullhashraw}{c9f5229247a4446f3a67fc327439573a}
+      \strng{bibnamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorbibnamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authornamehash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorfullhash}{c9f5229247a4446f3a67fc327439573a}
+      \strng{authorfullhashraw}{c9f5229247a4446f3a67fc327439573a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Porter's Five Forces Explained and How to Use the Model}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.investopedia.com/terms/p/porter.asp
+      \endverb
+      \verb{url}
+      \verb https://www.investopedia.com/terms/p/porter.asp
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -3028,6 +3260,36 @@
       \endverb
       \verb{url}
       \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{Hubspot01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22861b1d09c6123399252d34c57b04a2}{%
+           family={HubSport},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{fullhash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{fullhashraw}{22861b1d09c6123399252d34c57b04a2}
+      \strng{bibnamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorbibnamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authornamehash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorfullhash}{22861b1d09c6123399252d34c57b04a2}
+      \strng{authorfullhashraw}{22861b1d09c6123399252d34c57b04a2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el Inbound Marketing?}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.hubspot.es/inbound-marketing
+      \endverb
+      \verb{url}
+      \verb https://www.hubspot.es/inbound-marketing
       \endverb
     \endentry
     \entry{InfoLaft01}{online}{}{}
@@ -3630,6 +3892,36 @@
       \verb https://economipedia.com/definiciones/modelo-de-negocio.html
       \endverb
     \endentry
+    \entry{Pragma01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f607fdcea4127aad4f0cdae948a4f3f7}{%
+           family={{Pragma}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{fullhash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{fullhashraw}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{bibnamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorbibnamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authornamehash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorfullhash}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \strng{authorfullhashraw}{f607fdcea4127aad4f0cdae948a4f3f7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nequi, hacia la banca digital y abierta}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.pragma.co/es/casos-de-exito/nequi-plataforma-financiera-confiable
+      \endverb
+      \verb{url}
+      \verb https://www.pragma.co/es/casos-de-exito/nequi-plataforma-financiera-confiable
+      \endverb
+    \endentry
     \entry{RDominicana01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ecd8016372c9e6ed89fdfcb5827641e3}{%
@@ -3851,6 +4143,42 @@
       \endverb
       \verb{url}
       \verb https://revistas.juridicas.unam.mx/index.php/derecho-social/article/view/19696/20070
+      \endverb
+    \endentry
+    \entry{EIP01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=295ab6c678c25d504c7e84f41d8a55ad}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Raúl},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Business School}%
+      }
+      \strng{namehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{fullhash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{fullhashraw}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{bibnamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorbibnamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authornamehash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorfullhash}{295ab6c678c25d504c7e84f41d8a55ad}
+      \strng{authorfullhashraw}{295ab6c678c25d504c7e84f41d8a55ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qué es Fintonic y cómo nos puede ayudar en el control financiero}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://eiposgrados.com/blog-direccion-financiera/que-es-fintonic-y-como-nos-puede-ayudar-en-el-control-financiero/
+      \endverb
+      \verb{url}
+      \verb https://eiposgrados.com/blog-direccion-financiera/que-es-fintonic-y-como-nos-puede-ayudar-en-el-control-financiero/
       \endverb
     \endentry
     \entry{Asobancaria02}{report}{}{}
