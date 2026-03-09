@@ -3219,6 +3219,12 @@
     <bcf:citekey order="142" intorder="1">BusinessModel01</bcf:citekey>
     <bcf:citekey order="143" intorder="1">Hubspot01</bcf:citekey>
     <bcf:citekey order="144" intorder="1">Hubspot01</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">Decreto1297</bcf:citekey>
+    <bcf:citekey order="146" intorder="1">BBVAResearch01</bcf:citekey>
+    <bcf:citekey order="147" intorder="1">UniversidadEuropea01</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">DANE_Internet2023</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">DANE_Juventud2025</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">Finnovista2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
