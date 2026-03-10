@@ -99,10 +99,10 @@
 \contentsline {subsubsection}{Especificaciones generales}{88}{section*.69}%
 \contentsline {subsubsection}{Obligaciones legales}{89}{section*.69}%
 \contentsline {subsubsection}{Proceso para disolución de la empresa}{90}{Item.11}%
-\contentsline {subsubsection}{Propiedad intelectual}{92}{Item.29}%
-\contentsline {subsubsection}{Permisos y licencias requeridos}{92}{Item.29}%
-\contentsline {subsubsection}{Normas técnicas y de calidad}{93}{Item.29}%
-\contentsline {section}{Producto Mínimo Viable}{94}{Item.29}%
-\contentsline {subsection}{Presupuesto}{95}{section*.70}%
+\contentsline {subsubsection}{Propiedad intelectual}{91}{Item.21}%
+\contentsline {subsubsection}{Permisos y licencias requeridos}{92}{Item.21}%
+\contentsline {subsubsection}{Normas técnicas y de calidad}{93}{Item.21}%
+\contentsline {section}{Producto Mínimo Viable}{94}{Item.21}%
+\contentsline {subsection}{Presupuesto}{94}{section*.70}%
 \contentsline {section}{Anexos}{96}{table.caption.71}%
 \contentsline {section}{Referencias}{98}{table.caption.73}%

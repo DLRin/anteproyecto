@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  10 MAR 2026 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  10 MAR 2026 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2307,10 +2307,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [87 <./Imagenes/EduFinanzasPPF.png> <./Imagenes/EduFinanzasPV.png>]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 9.
+(hyperref)                be the same. Added a new anchor on input line 7.
 
 
-Overfull \hbox (0.48091pt too wide) in paragraph at lines 11--12
+Overfull \hbox (0.48091pt too wide) in paragraph at lines 9--10
 []\OT1/ptm/m/n/12 Nuestra em-pre-sa ser[]a cons-ti-tui-da ba-jo la fi-gu-ra de 
 So-cie-dad por Ac-cio-nes Sim-pli-fi-ca-da (S.A.S.),
  []
@@ -2394,7 +2394,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [95])) (Contenido/BB. Anexos/Anexos.tex
-<Imagenes/MetodoCuadros.png, id=1205, 735.74875pt x 570.13pt>
+<Imagenes/MetodoCuadros.png, id=1198, 735.74875pt x 570.13pt>
 File: Imagenes/MetodoCuadros.png Graphic file (type png)
 <use Imagenes/MetodoCuadros.png>
 Package pdftex.def Info: Imagenes/MetodoCuadros.png  used on input line 6.
@@ -2524,10 +2524,13 @@ L3 programming layer <2025-08-13>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `Proyecto.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: File `Proyecto.out' has not changed.
-(rerunfilecheck)             Checksum: 3B01AA57B7C85D79EE83C680F381AC14;15017.
+Package rerunfilecheck Info: Checksums for `Proyecto.out':
+(rerunfilecheck)             Before: 3B01AA57B7C85D79EE83C680F381AC14;15017
+(rerunfilecheck)             After:  E094B80D029878C6602A6186BD4C44E3;15017.
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -2537,24 +2540,28 @@ Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27598 strings out of 468132
- 535266 string characters out of 5430698
- 1459634 words of memory out of 5000000
- 55437 multiletter control sequences out of 15000+600000
+ 27593 strings out of 468132
+ 535241 string characters out of 5430698
+ 1459679 words of memory out of 5000000
+ 55439 multiletter control sequences out of 15000+600000
  644903 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,19n,90p,1517b,2903s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/courier/ucrr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/
-urw/times/utmb8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/
-urw/times/utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1
-/urw/times/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on Proyecto.pdf (113 pages, 3044800 bytes).
+
+pdfTeX warning (dest): name{Item.29} has been referenced but does not exist, re
+placed by a fixed one
+
+<C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+courier/ucrr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/times/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on Proyecto.pdf (113 pages, 3043264 bytes).
 PDF statistics:
- 1494 PDF objects out of 1728 (max. 8388607)
- 288 named destinations out of 1000 (max. 500000)
+ 1486 PDF objects out of 1728 (max. 8388607)
+ 281 named destinations out of 1000 (max. 500000)
  843 words of extra memory for PDF output out of 10000 (max. 10000000)
 
