@@ -880,7 +880,7 @@
       \verb https://www.frontiersin.org/journals/behavioral-economics/articles/10.3389/frbhe.2024.1489159
       \endverb
     \endentry
-    \entry{Ley1014}{online}{}{}
+    \entry{Decreto1360}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
            family={{F. Pública}},
@@ -898,6 +898,40 @@
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
       \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto 1360 de 1989}
+      \field{year}{1989}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10575
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10575
+      \endverb
+    \endentry
+    \entry{Ley1014}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -931,7 +965,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -965,7 +999,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -999,7 +1033,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -2327,6 +2361,72 @@
       \endverb
       \verb{url}
       \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
+      \endverb
+    \endentry
+    \entry{ISO14001}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 14001:2015}
+      \field{title}{Sistemas de gestión ambiental. Requisitos con orientación para su uso}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://portalhistorico.unidadvictimas.gov.co/sites/default/files/documentosbiblioteca/ntciso140012015.pdf
+      \endverb
+      \verb{url}
+      \verb https://portalhistorico.unidadvictimas.gov.co/sites/default/files/documentosbiblioteca/ntciso140012015.pdf
+      \endverb
+    \endentry
+    \entry{ISO9000}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 9000:2015}
+      \field{title}{Sistemas de gestión de la calidad. Fundamentos y vocabulario}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://es.slideshare.net/slideshow/ntc-iso-90002015pdf/262274012
+      \endverb
+      \verb{url}
+      \verb https://es.slideshare.net/slideshow/ntc-iso-90002015pdf/262274012
+      \endverb
+    \endentry
+    \entry{ISO9001}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 9001:2015}
+      \field{title}{Sistemas de gestión de la calidad. Requisitos}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://icfe.gov.co/site/wp-content/uploads/2023/12/NORMA-ISO-9001-2015-1.pdf
+      \endverb
+      \verb{url}
+      \verb https://icfe.gov.co/site/wp-content/uploads/2023/12/NORMA-ISO-9001-2015-1.pdf
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
@@ -3348,7 +3448,7 @@
       \verb https://www.frontiersin.org/journals/behavioral-economics/articles/10.3389/frbhe.2024.1489159
       \endverb
     \endentry
-    \entry{Ley1014}{online}{}{}
+    \entry{Decreto1360}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
            family={{F. Pública}},
@@ -3366,6 +3466,40 @@
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
       \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto 1360 de 1989}
+      \field{year}{1989}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10575
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10575
+      \endverb
+    \endentry
+    \entry{Ley1014}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -3399,7 +3533,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -3433,7 +3567,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -3467,7 +3601,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -4795,6 +4929,72 @@
       \endverb
       \verb{url}
       \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
+      \endverb
+    \endentry
+    \entry{ISO14001}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 14001:2015}
+      \field{title}{Sistemas de gestión ambiental. Requisitos con orientación para su uso}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://portalhistorico.unidadvictimas.gov.co/sites/default/files/documentosbiblioteca/ntciso140012015.pdf
+      \endverb
+      \verb{url}
+      \verb https://portalhistorico.unidadvictimas.gov.co/sites/default/files/documentosbiblioteca/ntciso140012015.pdf
+      \endverb
+    \endentry
+    \entry{ISO9000}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 9000:2015}
+      \field{title}{Sistemas de gestión de la calidad. Fundamentos y vocabulario}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://es.slideshare.net/slideshow/ntc-iso-90002015pdf/262274012
+      \endverb
+      \verb{url}
+      \verb https://es.slideshare.net/slideshow/ntc-iso-90002015pdf/262274012
+      \endverb
+    \endentry
+    \entry{ISO9001}{standard}{}{}
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{organization}{1}{%
+        {Instituto Colombiano de Normas Técnicas y Certificación}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{number}{NTC-ISO 9001:2015}
+      \field{title}{Sistemas de gestión de la calidad. Requisitos}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://icfe.gov.co/site/wp-content/uploads/2023/12/NORMA-ISO-9001-2015-1.pdf
+      \endverb
+      \verb{url}
+      \verb https://icfe.gov.co/site/wp-content/uploads/2023/12/NORMA-ISO-9001-2015-1.pdf
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
