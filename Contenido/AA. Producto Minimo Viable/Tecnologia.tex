@@ -1,14 +1,18 @@
 \subsection*{Tecnología}
 \addcontentsline{toc}{subsection}{Tecnología}
-Para lograr el desarrollo y la construcción de un prototipo mínimo viable, se comenzará a partir de una versión inicial, esto con el propósito de que se pueda cumplir con las funciones básicas del programa tales como asesoría financiera y el manejo de material multimedia. Esto teniendo en cuenta las necesidades de nuestra plataforma digital, entre ellas, se va a tener en cuenta una arquitectura de tres capas bajo las siguientes tecnologías.
+Para el desarrollo y la construcción de un prototipo mínimo viable, se usará una versión inicial, con el propósito de que se pueda cumplir con las funciones básicas del programa tales como asesoría financiera y el manejo de material multimedia. Además de permitir implementar, validar y evolucionar rápidamente las funcionalidades esenciales del sistema. Para ello, se adopto una arquitectura basada en microservicios organizada bajo un enfoque de arquitectura por capas, lo que permite separar las responsabilidades del sistema en diferentes niveles.
+
+Esta arquitectura se compone principalmente de una \textbf{capa de presentación (frontend)} encargado de la interacción con el usuario mediante una aplicación web progresiva, una \textbf{capa de lógica de negocio (backend)} conformada por microservicios independientes que gestionan funcionalidades centrales de la plataforma, una \textbf{capa especializada en inteligencia artificial} que permita el procesamiento de datos y la generación de recomendaciones personalizadas mediante algoritmos de machine learning, y por último una \textbf{capa de datos} que combine la bases de datos relacionales y no relaciones para gestionar la información estructurada de los usuarios así como los eventos generados por la interacción con la plataforma.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=15cm]{Imagenes/ArquiTresCapas.png}
-	\caption[{Arquitectura de Tres Capas.}]{\centering Arquitectura de Tres Capas. \textit{Fuente:} Sitio Web: (Gaviria V. Raúl A., ResearchGate, 2018)} 
-	\label{fig:logobconomy}
+	\includegraphics[width=12cm]{Imagenes/ArquiCapas.png}
+	\caption[{Arquitectura de Capas.}]{\centering Arquitectura de Capas. \textit{Fuente:} Autores.} 
+	\label{fig:arquicapas}
 \end{figure}
 
-Para el \textbf{Frontend} se optó por utilizar el framework Angular, desarrollado por Google, el cual ofrece una amplia gama de herramientas y componentes que facilitan la creación de interfaces de usuario dinámicas e intuitivas, mejorando así la experiencia del usuario durante la interacción con la plataforma.
+En cuanto a los aspectos tecnológicos, el sistema utiliza herramientas modernas orientadas a la escalabilidad y el alto rendimiento. La interfaz de usuario se desarrolla con \textbf{Angular}, lo que permite construir una aplicación web interactiva y modular; los microservicios de backend se implementan con \textbf{Node.js}, aprovechando su arquitectura basada en eventos y su capacidad para manejar múltiples solicitudes simultáneamente; los modelos de análisis y recomendación se desarrollan en \textbf{Python} utilizando bibliotecas de aprendizaje automático como \textit{Scikit-learn} o \textit{TensorFlow}; mientras que la persistencia de datos se gestiona mediante \textbf{PostgreSQL} para información estructurada y \textbf{MongoDB} para datos flexibles y eventos de aprendizaje. La infraestructura se implementa en entornos de nube mediante contenedores \textbf{Docker}, lo que facilita el despliegue, la portabilidad y la integración continua.
 
-Y finalmente, para el \textbf{Backend} y almacenamiento de datos se encuentra en conversaciones en usar bases de datos tradicionales como MySQL o PostgreSQL como otras herramientas como FaunaDB buscando combinar herramientas para crear una aplicación moderna y escalable.
+La elección de esta arquitectura responde principalmente a la necesidad de construir un sistema escalable, resiliente y adaptable, acorde con la naturaleza iterativa del desarrollo bajo la metodología Lean Startup. El uso de microservicios permite que cada componente del sistema pueda desarrollarse, actualizarse y escalarse de manera independiente, lo que reduce los riesgos asociados a fallas del sistema y facilita la incorporación de nuevas funcionalidades conforme el producto evoluciona.
+
+ De esta manera, la arquitectura seleccionada no solo soporta las necesidades actuales del Producto Mínimo Viable, sino que también establece una base tecnológica sólida para el crecimiento y la expansión futura de la plataforma.

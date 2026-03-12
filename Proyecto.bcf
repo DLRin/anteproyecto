@@ -3234,6 +3234,12 @@
     <bcf:citekey order="157" intorder="1">Resolucion70</bcf:citekey>
     <bcf:citekey order="158" intorder="1">Ley1014</bcf:citekey>
     <bcf:citekey order="159" intorder="1">Ley1360</bcf:citekey>
+    <bcf:citekey order="160" intorder="1">ISO9000</bcf:citekey>
+    <bcf:citekey order="161" intorder="1">ISO9001</bcf:citekey>
+    <bcf:citekey order="162" intorder="1">Decreto1360</bcf:citekey>
+    <bcf:citekey order="163" intorder="1">ISO9001</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">ISO14001</bcf:citekey>
+    <bcf:citekey order="165" intorder="1">ISO14001</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -88,11 +88,11 @@
 \contentsline {subsubsection}{Modelado de la Infraestructura y Componentes}{69}{Item.3}%
 \contentsline {paragraph}{Diagrama de Arquitectura Lógica}{70}{Item.3}%
 \contentsline {paragraph}{Diagrama de Despliegue}{70}{Item.3}%
-\contentsline {subsubsection}{Tecnologías}{71}{figure.caption.37}%
-\contentsline {subsubsection}{Requerimientos}{72}{figure.caption.37}%
-\contentsline {paragraph}{Requerimientos funcionales}{72}{figure.caption.37}%
-\contentsline {paragraph}{Requerimientos no funcionales}{82}{table.caption.48}%
-\contentsline {subsubsection}{Casos de uso}{88}{table.caption.58}%
+\contentsline {subsubsection}{Tecnologías}{71}{Item.3}%
+\contentsline {subsubsection}{Requerimientos}{72}{Item.3}%
+\contentsline {paragraph}{Requerimientos funcionales}{72}{Item.3}%
+\contentsline {paragraph}{Requerimientos no funcionales}{82}{table.caption.46}%
+\contentsline {subsubsection}{Casos de uso}{88}{table.caption.56}%
 \contentsline {subsubsection}{Vistas principales del prototipo}{93}{figure.caption.67}%
 \contentsline {subsection}{Estudio legal}{94}{figure.caption.70}%
 \contentsline {subsubsection}{Tipo de sociedad}{95}{section*.71}%
@@ -102,7 +102,8 @@
 \contentsline {subsubsection}{Propiedad intelectual}{98}{Item.21}%
 \contentsline {subsubsection}{Permisos y licencias requeridos}{99}{Item.21}%
 \contentsline {subsubsection}{Normas técnicas y de calidad}{100}{Item.21}%
-\contentsline {section}{Producto Mínimo Viable}{101}{Item.21}%
-\contentsline {subsection}{Presupuesto}{101}{section*.72}%
-\contentsline {section}{Anexos}{103}{table.caption.73}%
-\contentsline {section}{Referencias}{105}{table.caption.75}%
+\contentsline {subsection}{Estudio ambiental}{101}{Item.21}%
+\contentsline {subsubsection}{Impactos ambientales}{102}{section*.72}%
+\contentsline {subsubsection}{Políticas ambientales}{103}{table.caption.73}%
+\contentsline {section}{Anexos}{104}{table.caption.73}%
+\contentsline {section}{Referencias}{106}{table.caption.75}%
