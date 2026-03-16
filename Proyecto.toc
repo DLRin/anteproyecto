@@ -105,5 +105,21 @@
 \contentsline {subsection}{Estudio ambiental}{101}{Item.21}%
 \contentsline {subsubsection}{Impactos ambientales}{102}{section*.72}%
 \contentsline {subsubsection}{Políticas ambientales}{103}{table.caption.73}%
-\contentsline {section}{Anexos}{104}{table.caption.73}%
-\contentsline {section}{Referencias}{106}{table.caption.75}%
+\contentsline {section}{Plan de Negocios}{104}{table.caption.73}%
+\contentsline {subsection}{Matriz PEYEA}{104}{section*.74}%
+\contentsline {subsubsection}{Dimensión interna}{108}{Item.27}%
+\contentsline {paragraph}{Fortalezas financieras}{108}{Item.27}%
+\contentsline {paragraph}{Ventajas competitivas}{109}{table.12}%
+\contentsline {subsubsection}{Dimensión externa}{109}{table.13}%
+\contentsline {paragraph}{Fortaleza industrial}{109}{table.13}%
+\contentsline {paragraph}{Estabilidad del ambiente}{110}{table.14}%
+\contentsline {subsubsection}{Resultados matriz PEYEA}{111}{table.15}%
+\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{112}{figure.caption.76}%
+\contentsline {subsection}{Matriz DOFA}{113}{figure.caption.76}%
+\contentsline {subsection}{Análisis DOFA}{116}{figure.caption.78}%
+\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{116}{section*.79}%
+\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{116}{section*.79}%
+\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{117}{section*.79}%
+\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{117}{section*.79}%
+\contentsline {section}{Anexos}{118}{section*.79}%
+\contentsline {section}{Referencias}{120}{table.caption.81}%
