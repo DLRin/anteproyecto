@@ -1,113 +1,73 @@
-\subsection*{Producto mínimo viable}
+\phantomsection
 \addcontentsline{toc}{subsection}{Producto mínimo viable}
+\subsection*{Producto mínimo viable}
 
-El Producto Mínimo Viable (MVP) corresponde a una versión inicial del producto que contiene únicamente las funcionalidades esenciales necesarias para satisfacer a los primeros usuarios y validar las hipótesis fundamentales del modelo de negocio. Su objetivo principal es poner el producto en manos de los usuarios lo más pronto posible, permitiendo recopilar retroalimentación real que facilite iteraciones y mejoras posteriores \parencite{IntuitChamp01}.
+El Producto Mínimo Viable (PMV) se define como la iteración inicial del sistema que consolida las funcionalidades core indispensables para satisfacer a los usuarios pioneros y validar las hipótesis de valor del modelo de negocio. Su propósito fundamental radica en la inserción temprana del producto en el mercado, permitiendo la captura de retroalimentación empírica para guiar las fases subsiguientes de desarrollo incremental \parencite{IntuitChamp01}.
 
-A partir de un punto de vista técnico, definir el Producto Mínimo Viable no es solamente seleccionar funcionalidades básicas del sistema sino también en establecer una arquitectura tecnológica el cual permita desarrollar, probar y evolucionar dichas funcionalidades de forma eficiente. En este contexto, el diseño del sistema se plantea desde la formulación de una arquitectura y el despliegue del sistema.
+Desde una perspectiva de ingeniería, la definición del PMV trasciende la selección de funcionalidades; implica el establecimiento de una arquitectura tecnológica robusta que permita el despliegue, la ejecución de pruebas y la evolución sistémica de forma eficiente. Bajo este enfoque, el diseño del sistema se fundamenta en la formulación de una arquitectura lógica y un modelo de despliegue físico. Es imperativo distinguir ambos conceptos: mientras la arquitectura define la estructura lógica y la orquestación de servicios, el despliegue describe la topología de implementación y organización de los componentes dentro de la infraestructura tecnológica \parencite{BBVA04}.
 
-Cabe aclarar que la arquitectura del sistema y su modelo de despliegue son dos cosas diferentes, por un lado la arquitectura define la estructura lógica y el comportamiento de los diferentes servicios entre sí, mientras que el despliegue es la vía por la cual estos componentes se organizan e implementan dentro de la infraestructura tecnológica \parencite{BBVA04}.
+\phantomsection
+\addcontentsline{toc}{subsubsection}{Arquitectura del Sistema}
+\subsubsection*{Arquitectura del Sistema}
 
-A continuación se describirán las tecnologías usadas y los motivos por los cuales fueron seleccionados para el progreso del proyecto:
+Para el desarrollo de la plataforma, se propone una \textbf{Arquitectura de Microservicios} nativa de la nube, la cual permite desacoplar las funcionalidades críticas del sistema para garantizar escalabilidad horizontal, mantenibilidad y alta disponibilidad. Esta estructura es idónea para un ecosistema digital que integra procesamiento de datos transaccionales con algoritmos de aprendizaje automático, permitiendo la actualización independiente de módulos sin comprometer la integridad global del servicio.
 
-\subsection*{Arquitectura del Sistema}
-\addcontentsline{toc}{subsection}{Arquitectura del Sistema}
-
-Para el desarrollo de la plataforma, se propone una \textbf{Arquitectura de Microservicios} basada en la nube, la cual permite desacoplar las funcionalidades críticas del sistema para garantizar escalabilidad, mantenibilidad y alta disponibilidad. Esta estructura es ideal para un ecosistema digital que integra procesamiento de datos financieros y algoritmos de aprendizaje automático, facilitando la actualización independiente de cada componente sin afectar la integridad global del servicio.
-
-Los componentes principales de la arquitectura se dividen en las siguientes capas:
+La organización del sistema se articula a través de las siguientes capas especializadas:
 
 \begin{itemize}
-	\item \textbf{Capa de Presentación (Frontend):} Desarrollada bajo un enfoque de aplicación web progresiva (PWA), permitiendo el acceso multiplataforma. Se centra en la entrega de interfaces didácticas y simuladores interactivos con una experiencia de usuario (UX) optimizada para dispositivos móviles.
-	
-	\item \textbf{Capa de Lógica de Negocio (Backend):} Compuesta por microservicios independientes que gestionan la autenticación de usuarios, la lógica de los simuladores financieros y la administración de módulos educativos. 
-	
-	\item \textbf{Capa de Inteligencia Artificial (AI Service):} Un servicio especializado dedicado al entrenamiento y ejecución de modelos de \textit{Machine Learning}. Este componente consume datos de comportamiento del usuario para generar recomendaciones personalizadas y proyecciones financieras adaptativas \parencite{BBVAResearch01}.
-	
-	\item \textbf{Capa de Datos:} Implementación de una base de datos híbrida que utiliza sistemas relacionales (PostgreSQL) para la gestión de transacciones y perfiles de usuario, junto con almacenes de datos no relacionales (NoSQL) para el procesamiento de grandes volúmenes de eventos y telemetría de aprendizaje.
+	\item \textbf{Capa de Presentación (Frontend):} Implementada mediante aplicaciones web progresivas (\textit{PWA}), asegurando una experiencia multiplataforma con interfaces didácticas y simuladores interactivos optimizados para dispositivos móviles (UX).
+	\item \textbf{Capa de Lógica de Negocio (Backend):} Conformada por microservicios autónomos encargados de la gestión de identidades, la lógica de simulación financiera y la administración de los módulos educativos.
+	\item \textbf{Capa de Inteligencia Artificial (AI Service):} Servicio especializado en el entrenamiento e inferencia de modelos de \textit{Machine Learning}. Este componente analiza patrones de comportamiento para generar rutas de aprendizaje personalizadas y proyecciones financieras adaptativas \parencite{BBVAResearch01}.
+	\item \textbf{Capa de Datos:} Estructura de persistencia híbrida que emplea sistemas relacionales (\textbf{PostgreSQL}) para la integridad transaccional y bases de datos no relacionales (\textbf{MongoDB}) para el almacenamiento de eventos y telemetría de aprendizaje.
 \end{itemize}
 
-\subsubsection*{Justificación Técnica de la Arquitectura}
-\addcontentsline{toc}{subsubsection}{Justificación Técnica de la Arquitectura}
-La elección de microservicios sobre una arquitectura monolítica responde a la naturaleza del emprendimiento bajo la metodología \textit{Lean Startup}. Esta arquitectura permite:
-\begin{enumerate}
-	\item \textbf{Escalabilidad Adaptativa:} Capacidad de aumentar los recursos del microservicio de IA durante picos de demanda sin necesidad de replicar todo el sistema.
-	\item \textbf{Resiliencia:} Si el módulo de recomendaciones experimenta una falla, las herramientas básicas de simulación y el contenido educativo permanecen operativos para el usuario.
-	\item \textbf{Integración Continua:} Facilita el despliegue de actualizaciones rápidas basadas en la retroalimentación del mercado en Bogotá, permitiendo pivotar funcionalidades técnicas de manera ágil.
-\end{enumerate}
+\phantomsection
+\addcontentsline{toc}{subsubsection}{Modelado Lógico y Físico}
+\subsubsection*{Modelado Lógico y Físico}
 
-\subsubsection*{Modelado de la Infraestructura y Componentes}
-\addcontentsline{toc}{subsubsection}{Modelado de la Infraestructura y Componentes}
-A continuación, se describen los diagramas técnicos que representan la organización lógica y la distribución física de la plataforma.
+A continuación, se presentan los diagramas técnicos que detallan la organización funcional y la distribución de infraestructura de la plataforma.
 
-\paragraph*{Diagrama de Arquitectura Lógica}
-\addcontentsline{toc}{paragraph}{Diagrama de Arquitectura Lógica}
-Este diagrama ilustra la interacción entre los distintos servicios a través de un \textit{API Gateway}, que actúa como punto de entrada único para las solicitudes de los usuarios.
+\paragraph*{Arquitectura Lógica de Microservicios}
+Como se ilustra en la Figura \ref{fig:arquitectura_logica}, el sistema utiliza un \textbf{API Gateway} como punto de entrada único, el cual gestiona el enrutamiento, la autenticación mediante \textit{JSON Web Tokens} (JWT) y el balanceo de carga entre los servicios. La comunicación entre el motor de \textit{Machine Learning} (desarrollado en Python) y los microservicios centrales se realiza de forma asíncrona, permitiendo que la plataforma mantenga su fluidez mientras se procesan las recomendaciones personalizadas.
 
-\begin{itemize}
-	\item \textbf{API Gateway:} Gestiona el enrutamiento, la autenticación mediante \textit{JSON Web Tokens} (JWT) y el balanceo de carga.
-	\item \textbf{Microservicios Centrales:} Servicios aislados para el manejo de la lógica educativa y los simuladores financieros.
-	\item \textbf{ML Engine:} Microservicio independiente en Python que ejecuta los algoritmos de recomendación.
-	\item \textbf{Message Broker:} Facilita la comunicación asíncrona entre servicios para procesos de fondo, como el envío de reportes financieros.
-\end{itemize}
-
-\paragraph*{Diagrama de Despliegue}
-\addcontentsline{toc}{paragraph}{Diagrama de Despliegue}
-El diagrama de despliegue detalla la disposición física de los componentes en la infraestructura de nube. Se utiliza una estrategia de \textbf{Contenerización} con Docker, orquestada para asegurar que el sistema sea agnóstico respecto al proveedor de nube (AWS, Azure o Google Cloud).
-
-
-\begin{itemize}
-	\item \textbf{Cliente:} Representa el nodo del dispositivo del usuario (móvil o escritorio) que se comunica vía HTTPS.
-	\item \textbf{Cloud Cluster:} Nodo principal donde residen los contenedores de los microservicios.
-	\item \textbf{Data Tier:} Instancias de base de datos administradas que garantizan la persistencia y copias de seguridad automáticas de la información financiera de los usuarios.
-	\item \textbf{CDN (Content Delivery Network):} Nodo encargado de distribuir el contenido multimedia de aprendizaje de manera eficiente en la región de Bogotá.
-\end{itemize}
-
-\begin{comment}
-Voy a dejarlo así por el momento, en caso de que si se añadan estas imágenes por favor eliminar este comentario.
 \begin{figure}[H]
 	\centering
-	% \includegraphics[width=0.8\textwidth]{Imagenes/DiagramaArquitectura.png}
+	\includegraphics[width=0.85\textwidth]{Imagenes/arquitectura.png}
 	\caption{Arquitectura Lógica de Microservicios de la Plataforma.}
+	{\small \textit{Fuente:} Elaboración propia.}
 	\label{fig:arquitectura_logica}
 \end{figure}
 
+\paragraph*{Diagrama de Despliegue de Infraestructura}
+La distribución física del sistema, detallada en la Figura \ref{fig:despliegue_fisico}, se fundamenta en una estrategia de \textbf{contenerización} con Docker. Esta configuración garantiza que el sistema sea agnóstico respecto al proveedor de servicios de nube (\textit{Cloud Agnostic}), facilitando el despliegue en entornos como AWS, Azure o Google Cloud. Se destaca la inclusión de una \textbf{CDN} (Red de Distribución de Contenido) para optimizar la entrega de material multimedia en la región de Bogotá, cumpliendo con los estándares de rendimiento (RNF06).
+
 \begin{figure}[H]
 	\centering
-	% \includegraphics[width=0.8\textwidth]{Imagenes/DiagramaDespliegue.png}
+	\includegraphics[width=0.85\textwidth]{Imagenes/despliegue.png}
 	\caption{Diagrama de Despliegue de Infraestructura en la Nube.}
+	{\small \textit{Fuente:} Elaboración propia.}
 	\label{fig:despliegue_fisico}
 \end{figure}
-\end{comment}
 
-\subsubsection*{Tecnologías}
-\addcontentsline{toc}{subsubsection}{Tecnologías}
+\phantomsection
+\addcontentsline{toc}{subsubsection}{Tecnologías Seleccionadas}
+\subsubsection*{Tecnologías Seleccionadas}
 
-Para garantizar la viabilidad técnica del Producto Mínimo Viable y soportar la arquitectura de microservicios propuesta, se han seleccionado tecnologías que priorizan el rendimiento, la escalabilidad y un entorno de desarrollo moderno.
+Para garantizar la viabilidad técnica del PMV, se han seleccionado herramientas que priorizan el alto rendimiento y la escalabilidad:
 
 \begin{itemize}
-	\item \textbf{Frontend (Framework):} Se utilizará \textbf{Angular}. Este framework basado en TypeScript proporciona una estructura modular mediante componentes y servicios, facilitando la creación de una interfaz altamente interactiva. Al ser una aplicación de una sola página (SPA), permite transiciones fluidas en los simuladores financieros y una experiencia de usuario (UX) coherente con los estándares actuales de las aplicaciones bancarias.
-	
-	\item \textbf{Backend (Entorno de ejecución):} Los microservicios de lógica de negocio y el API Gateway se desarrollarán sobre \textbf{Node.js}. Su arquitectura basada en eventos y entrada/salida no bloqueante asegura que la plataforma pueda manejar múltiples peticiones simultáneas, como el procesamiento de datos de entrenamiento para la IA y las consultas de los usuarios a los simuladores.
-	
-	\item \textbf{Inteligencia Artificial y ML:} Para el procesamiento de datos adaptativo se empleará \textbf{Python}, utilizando librerías como Scikit-learn o TensorFlow. Los modelos de recomendación se expondrán como servicios independientes que interactúan con el backend de Node.js de manera asíncrona.
-	
-	\item \textbf{Bases de Datos:} 
-	\begin{itemize}
-		\item \textbf{PostgreSQL:} Motor de base de datos relacional para la gestión de usuarios, seguridad y transacciones, asegurando la integridad referencial de la información financiera.
-		\item \textbf{MongoDB / NoSQL:} Para el almacenamiento de contenido educativo dinámico y el registro de eventos de aprendizaje, cuya estructura requiere flexibilidad frente a cambios constantes.
-	\end{itemize}
-	
-	\item \textbf{Infraestructura y Contenerización:} 
-	\begin{itemize}
-		\item \textbf{Docker:} Se emplearán contenedores para aislar cada servicio (Angular, Node.js y Python), garantizando que el sistema sea agnóstico respecto al sistema operativo de despliegue y facilitando la integración continua.
-	\end{itemize}
+	\item \textbf{Angular (Frontend):} Framework basado en TypeScript que permite una arquitectura modular y fluida, similar a los estándares de las aplicaciones bancarias actuales.
+	\item \textbf{Node.js (Backend):} Entorno de ejecución basado en eventos que soporta una alta concurrencia de peticiones simultáneas sin bloqueos.
+	\item \textbf{Python (IA/ML):} Lenguaje líder en ciencia de datos, utilizado para exponer los modelos de recomendación como servicios independientes.
+	\item \textbf{Persistencia:} El uso dual de PostgreSQL y MongoDB permite equilibrar la seguridad de los datos financieros con la flexibilidad necesaria para los contenidos educativos.
 \end{itemize}
 
-\subsubsection*{Análisis de Integración Tecnológica}
-La integración de Node.js y Angular asegura un ecosistema de desarrollo homogéneo bajo JavaScript/TypeScript. Esto reduce la curva de aprendizaje y mejora la velocidad de implementación del PMV, permitiendo que el equipo de desarrollo se enfoque en la optimización de los algoritmos de personalización financiera y en la validación rápida de hipótesis bajo la metodología \textit{Lean Startup}.
+Esta integración tecnológica asegura un ecosistema de desarrollo homogéneo bajo estándares de \textit{Clean Architecture}, facilitando la validación rápida de hipótesis bajo la metodología \textit{Lean Startup}.
 
-\subsubsection*{Requerimientos}
+\phantomsection
 \addcontentsline{toc}{subsubsection}{Requerimientos}
+\subsubsection*{Requerimientos}
+
 A continuación, se especifican los requerimientos del sistema, los cuales establecen las capacidades funcionales y las restricciones de calidad que debe cumplir la plataforma para satisfacer los objetivos del proyecto.
 
 \paragraph*{Requerimientos funcionales}
@@ -281,9 +241,10 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 \end{table}
 
 
-
-\paragraph*{Requerimientos no funcionales}
+\phantomsection
 \addcontentsline{toc}{paragraph}{Requerimientos no funcionales}
+\paragraph*{Requerimientos no funcionales}
+
 Los requerimientos no funcionales describen las cualidades y estándares que debe tener el sistema, su comportamiento, y otros aspectos. Estos requerimientos no funcionales se describen a continuación:
 
 \begin{table}[H]
@@ -426,8 +387,10 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\end{tabular}
 \end{table}
 
-\subsubsection*{Casos de uso}
+\phantomsection
 \addcontentsline{toc}{subsubsection}{Casos de uso}
+\subsubsection*{Casos de uso}
+
 Los casos de uso describen detalladamente cómo un usuario interactúa con nuestro sistema para alcanzar un objetivo, a continuación, mostramos los casos de usos para los requerimientos funcionales dados anteriormente:
 
 \begin{figure}[H]
@@ -507,8 +470,10 @@ Los casos de uso describen detalladamente cómo un usuario interactúa con nuest
 	\label{fig:diagramacasousorf11}
 \end{figure}
 
-\subsubsection*{Vistas principales del prototipo}
+\phantomsection
 \addcontentsline{toc}{subsubsection}{Vistas principales del prototipo}
+\subsubsection*{Vistas principales del prototipo}
+
 
 Concorde a lo previamente descrito dentro de las historias de usuario y los casos de uso, se adjunta algunas vistas base del prototipo. Cabe aclarar que las siguientes ilustraciones para diseñar el modelo fueron obtenidas del sitio en el que esta ubicado el producto mínimo viable.
 
