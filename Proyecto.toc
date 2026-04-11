@@ -62,94 +62,93 @@
 \contentsline {subsection}{Fase 2: Análisis de la situación}{50}{section*.68}%
 \contentsline {subsection}{Fase 3: Definición de la empresa}{51}{section*.70}%
 \contentsline {subsection}{Fase 4: Estructuración}{52}{section*.72}%
-\contentsline {subsection}{Cronograma}{53}{section*.74}%
-\contentsline {section}{Información de la Empresa}{56}{section*.76}%
-\contentsline {subsection}{Misión}{56}{section*.77}%
-\contentsline {subsection}{Visión}{56}{section*.78}%
-\contentsline {subsection}{Valores}{56}{section*.79}%
-\contentsline {subsection}{Modelo organizacional}{57}{section*.80}%
-\contentsline {section}{Plan de Negocios}{58}{section*.82}%
-\contentsline {subsection}{Estudio de mercado}{58}{section*.83}%
-\contentsline {subsubsection}{Identificación del producto}{58}{section*.84}%
-\contentsline {subsubsection}{Demanda}{58}{section*.85}%
-\contentsline {subsubsection}{Oferta}{59}{section*.86}%
-\contentsline {subsubsection}{Plan de Marketing}{59}{section*.87}%
-\contentsline {paragraph}{Objetivos}{59}{section*.88}%
-\contentsline {paragraph}{Tácticas de marketing}{59}{section*.89}%
-\contentsline {paragraph}{Precios}{62}{section*.91}%
-\contentsline {subsection}{Estudio técnico}{63}{section*.93}%
-\contentsline {subsubsection}{Tamaño}{63}{section*.94}%
-\contentsline {subsubsection}{Localización}{65}{section*.96}%
-\contentsline {subsubsection}{Lugares candidatos}{65}{section*.97}%
-\contentsline {subsubsection}{Tipo de emprendimiento}{68}{section*.101}%
-\contentsline {subsubsection}{Equipo de trabajo}{68}{section*.103}%
-\contentsline {subsection}{Producto mínimo viable}{69}{section*.105}%
-\contentsline {subsubsection}{Arquitectura del Sistema}{70}{section*.106}%
-\contentsline {subsubsection}{Modelado Lógico y Físico}{71}{section*.107}%
-\contentsline {subsubsection}{Tecnologías Seleccionadas}{73}{section*.110}%
-\contentsline {subsubsection}{Requerimientos}{74}{section*.111}%
-\contentsline {paragraph}{Requerimientos funcionales}{74}{section*.111}%
-\contentsline {paragraph}{Requerimientos no funcionales}{84}{section*.123}%
-\contentsline {subsubsection}{Casos de uso}{89}{section*.134}%
-\contentsline {subsubsection}{Vistas principales del prototipo}{95}{section*.146}%
-\contentsline {subsection}{Estudio legal}{96}{section*.150}%
-\contentsline {subsubsection}{Tipo de sociedad}{97}{section*.151}%
-\contentsline {subsubsection}{Especificaciones generales}{97}{section*.152}%
-\contentsline {subsubsection}{Obligaciones legales}{98}{section*.153}%
-\contentsline {subsubsection}{Proceso para disolución de la empresa}{99}{section*.154}%
-\contentsline {subsubsection}{Propiedad intelectual}{100}{section*.155}%
-\contentsline {subsubsection}{Permisos y licencias requeridos}{100}{section*.156}%
-\contentsline {subsubsection}{Normas técnicas y de calidad}{102}{section*.157}%
-\contentsline {subsection}{Estudio ambiental}{103}{section*.158}%
-\contentsline {subsubsection}{Impactos ambientales}{105}{section*.159}%
-\contentsline {subsubsection}{Políticas ambientales}{105}{section*.161}%
-\contentsline {section}{Análisis Financiero}{107}{section*.162}%
-\contentsline {subsection}{Inversión inicial}{107}{section*.163}%
-\contentsline {subsection}{Establecimiento}{107}{section*.165}%
-\contentsline {subsubsection}{Activos fijos tangibles}{107}{section*.166}%
-\contentsline {subsubsection}{Activos fijos intangibles}{108}{section*.168}%
-\contentsline {subsubsection}{Activos fijos intangibles}{108}{section*.170}%
-\contentsline {subsubsection}{Financiamiento}{108}{section*.172}%
-\contentsline {subsection}{Ingresos y egresos}{109}{section*.174}%
-\contentsline {subsubsection}{Ingresos}{109}{section*.175}%
-\contentsline {subsubsection}{Egresos}{110}{section*.177}%
-\contentsline {subsection}{Proyección de ventas}{111}{section*.179}%
-\contentsline {subsection}{Amortización y depreciación}{112}{section*.182}%
-\contentsline {subsubsection}{Préstamo}{112}{section*.183}%
-\contentsline {subsubsection}{Amortización}{113}{section*.185}%
-\contentsline {subsubsection}{Depreciación}{113}{section*.187}%
-\contentsline {subsection}{Balance general}{114}{section*.189}%
-\contentsline {subsection}{Estado de resultados}{116}{section*.191}%
-\contentsline {subsection}{Flujo de caja}{117}{section*.193}%
-\contentsline {subsection}{Flujo de efectivo}{118}{section*.195}%
-\contentsline {subsection}{Punto de equilibrio}{119}{section*.197}%
-\contentsline {subsection}{Indicadores financieros}{121}{section*.202}%
-\contentsline {section}{Plan de Negocios}{125}{section*.206}%
-\contentsline {subsection}{Matriz PEYEA}{125}{section*.207}%
-\contentsline {subsubsection}{Dimensión interna}{128}{section*.209}%
-\contentsline {paragraph}{Fortalezas financieras}{129}{section*.209}%
-\contentsline {paragraph}{Ventajas competitivas}{129}{table.34}%
-\contentsline {subsubsection}{Dimensión externa}{130}{section*.210}%
-\contentsline {paragraph}{Fortaleza industrial}{130}{section*.210}%
-\contentsline {paragraph}{Estabilidad del ambiente}{131}{table.36}%
-\contentsline {subsubsection}{Resultados matriz PEYEA}{131}{section*.211}%
-\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{133}{section*.213}%
-\contentsline {subsection}{Matriz DOFA}{134}{section*.214}%
-\contentsline {subsection}{Análisis DOFA}{136}{section*.217}%
-\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{137}{section*.218}%
-\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{137}{section*.219}%
-\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{138}{section*.220}%
-\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{138}{section*.221}%
-\contentsline {section}{Análisis de Riesgo}{139}{section*.222}%
-\contentsline {subsection}{Factores limitantes}{139}{section*.223}%
-\contentsline {subsection}{Factores claves de éxito}{140}{section*.224}%
-\contentsline {subsection}{Riesgos legales}{141}{section*.225}%
-\contentsline {subsection}{Riesgos operacionales}{142}{section*.226}%
-\contentsline {section}{Impactos}{144}{section*.227}%
-\contentsline {subsection}{Impactos sociales}{144}{section*.228}%
-\contentsline {subsection}{Impactos ambientales}{145}{section*.229}%
-\contentsline {subsection}{Impactos económicos}{146}{section*.230}%
-\contentsline {subsection}{Impactos tecnológicos}{147}{section*.231}%
-\contentsline {section}{Conclusiones}{148}{section*.232}%
-\contentsline {section}{Anexos}{150}{section*.233}%
-\contentsline {section}{Referencias}{152}{table.caption.235}%
+\contentsline {section}{Información de la Empresa}{54}{section*.74}%
+\contentsline {subsection}{Misión}{54}{section*.75}%
+\contentsline {subsection}{Visión}{54}{section*.76}%
+\contentsline {subsection}{Valores}{54}{section*.77}%
+\contentsline {subsection}{Modelo organizacional}{55}{section*.78}%
+\contentsline {section}{Plan de Negocios}{56}{section*.80}%
+\contentsline {subsection}{Estudio de mercado}{56}{section*.81}%
+\contentsline {subsubsection}{Identificación del producto}{56}{section*.82}%
+\contentsline {subsubsection}{Demanda}{56}{section*.83}%
+\contentsline {subsubsection}{Oferta}{57}{section*.84}%
+\contentsline {subsubsection}{Plan de Marketing}{57}{section*.85}%
+\contentsline {paragraph}{Objetivos}{57}{section*.86}%
+\contentsline {paragraph}{Tácticas de marketing}{57}{section*.87}%
+\contentsline {paragraph}{Precios}{60}{section*.89}%
+\contentsline {subsection}{Estudio técnico}{61}{section*.91}%
+\contentsline {subsubsection}{Tamaño}{61}{section*.92}%
+\contentsline {subsubsection}{Localización}{63}{section*.94}%
+\contentsline {subsubsection}{Lugares candidatos}{63}{section*.95}%
+\contentsline {subsubsection}{Tipo de emprendimiento}{66}{section*.99}%
+\contentsline {subsubsection}{Equipo de trabajo}{66}{section*.101}%
+\contentsline {subsection}{Producto mínimo viable}{67}{section*.103}%
+\contentsline {subsubsection}{Arquitectura del Sistema}{68}{section*.104}%
+\contentsline {subsubsection}{Modelado Lógico y Físico}{69}{section*.105}%
+\contentsline {subsubsection}{Tecnologías Seleccionadas}{71}{section*.108}%
+\contentsline {subsubsection}{Requerimientos}{72}{section*.109}%
+\contentsline {paragraph}{Requerimientos funcionales}{72}{section*.109}%
+\contentsline {paragraph}{Requerimientos no funcionales}{82}{section*.121}%
+\contentsline {subsubsection}{Casos de uso}{87}{section*.132}%
+\contentsline {subsubsection}{Vistas principales del prototipo}{93}{section*.144}%
+\contentsline {subsection}{Estudio legal}{94}{section*.148}%
+\contentsline {subsubsection}{Tipo de sociedad}{95}{section*.149}%
+\contentsline {subsubsection}{Especificaciones generales}{95}{section*.150}%
+\contentsline {subsubsection}{Obligaciones legales}{96}{section*.151}%
+\contentsline {subsubsection}{Proceso para disolución de la empresa}{97}{section*.152}%
+\contentsline {subsubsection}{Propiedad intelectual}{98}{section*.153}%
+\contentsline {subsubsection}{Permisos y licencias requeridos}{98}{section*.154}%
+\contentsline {subsubsection}{Normas técnicas y de calidad}{100}{section*.155}%
+\contentsline {subsection}{Estudio ambiental}{101}{section*.156}%
+\contentsline {subsubsection}{Impactos ambientales}{103}{section*.157}%
+\contentsline {subsubsection}{Políticas ambientales}{103}{section*.159}%
+\contentsline {section}{Análisis Financiero}{105}{section*.160}%
+\contentsline {subsection}{Inversión inicial}{105}{section*.161}%
+\contentsline {subsection}{Establecimiento}{105}{section*.163}%
+\contentsline {subsubsection}{Activos fijos tangibles}{105}{section*.164}%
+\contentsline {subsubsection}{Activos fijos intangibles}{106}{section*.166}%
+\contentsline {subsubsection}{Activos fijos intangibles}{106}{section*.168}%
+\contentsline {subsubsection}{Financiamiento}{106}{section*.170}%
+\contentsline {subsection}{Ingresos y egresos}{107}{section*.172}%
+\contentsline {subsubsection}{Ingresos}{107}{section*.173}%
+\contentsline {subsubsection}{Egresos}{108}{section*.175}%
+\contentsline {subsection}{Proyección de ventas}{109}{section*.177}%
+\contentsline {subsection}{Amortización y depreciación}{110}{section*.180}%
+\contentsline {subsubsection}{Préstamo}{110}{section*.181}%
+\contentsline {subsubsection}{Amortización}{111}{section*.183}%
+\contentsline {subsubsection}{Depreciación}{111}{section*.185}%
+\contentsline {subsection}{Balance general}{112}{section*.187}%
+\contentsline {subsection}{Estado de resultados}{114}{section*.189}%
+\contentsline {subsection}{Flujo de caja}{115}{section*.191}%
+\contentsline {subsection}{Flujo de efectivo}{116}{section*.193}%
+\contentsline {subsection}{Punto de equilibrio}{117}{section*.195}%
+\contentsline {subsection}{Indicadores financieros}{119}{section*.200}%
+\contentsline {section}{Plan de Negocios}{123}{section*.204}%
+\contentsline {subsection}{Matriz PEYEA}{123}{section*.205}%
+\contentsline {subsubsection}{Dimensión interna}{126}{section*.207}%
+\contentsline {paragraph}{Fortalezas financieras}{127}{section*.207}%
+\contentsline {paragraph}{Ventajas competitivas}{127}{table.34}%
+\contentsline {subsubsection}{Dimensión externa}{128}{section*.208}%
+\contentsline {paragraph}{Fortaleza industrial}{128}{section*.208}%
+\contentsline {paragraph}{Estabilidad del ambiente}{129}{table.36}%
+\contentsline {subsubsection}{Resultados matriz PEYEA}{129}{section*.209}%
+\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{131}{section*.211}%
+\contentsline {subsection}{Matriz DOFA}{132}{section*.212}%
+\contentsline {subsection}{Análisis DOFA}{134}{section*.215}%
+\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{135}{section*.216}%
+\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{135}{section*.217}%
+\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{136}{section*.218}%
+\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{136}{section*.219}%
+\contentsline {section}{Análisis de Riesgo}{137}{section*.220}%
+\contentsline {subsection}{Factores limitantes}{137}{section*.221}%
+\contentsline {subsection}{Factores claves de éxito}{138}{section*.222}%
+\contentsline {subsection}{Riesgos legales}{139}{section*.223}%
+\contentsline {subsection}{Riesgos operacionales}{140}{section*.224}%
+\contentsline {section}{Impactos}{142}{section*.225}%
+\contentsline {subsection}{Impactos sociales}{142}{section*.226}%
+\contentsline {subsection}{Impactos ambientales}{143}{section*.227}%
+\contentsline {subsection}{Impactos económicos}{144}{section*.228}%
+\contentsline {subsection}{Impactos tecnológicos}{145}{section*.229}%
+\contentsline {section}{Conclusiones}{146}{section*.230}%
+\contentsline {section}{Anexos}{148}{section*.231}%
+\contentsline {section}{Referencias}{150}{table.caption.233}%
