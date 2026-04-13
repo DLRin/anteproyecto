@@ -1,17 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Proyecto.blg'
-[168] biber-MSWIN64:342> INFO - === 
-[238] Biber.pm:421> INFO - Reading 'Proyecto.bcf'
-[464] Biber.pm:1002> INFO - Found 84 citekeys in bib section 0
-[489] Biber.pm:4487> INFO - Processing section 0
-[502] Biber.pm:4678> INFO - Looking for bibtex file './Bibliografia.bib' for section 0
-[673] bibtex.pm:1713> INFO - LaTeX decoding ...
-[810] bibtex.pm:1519> INFO - Found BibTeX data source './Bibliografia.bib'
-[1343] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1343] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1343] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1521] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1521] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1521] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1625] bbl.pm:676> INFO - Writing 'Proyecto.bbl' with encoding 'UTF-8'
-[1732] bbl.pm:779> INFO - Output to Proyecto.bbl
+[162] biber-MSWIN64:342> INFO - === 
+[219] Biber.pm:421> INFO - Reading 'Proyecto.bcf'
+[465] Biber.pm:1002> INFO - Found 85 citekeys in bib section 0
+[496] Biber.pm:4487> INFO - Processing section 0
+[509] Biber.pm:4678> INFO - Looking for bibtex file './Bibliografia.bib' for section 0
+[591] bibtex.pm:1713> INFO - LaTeX decoding ...
+[692] bibtex.pm:1519> INFO - Found BibTeX data source './Bibliografia.bib'
+[1318] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1318] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1318] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1548] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1548] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1548] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1673] bbl.pm:676> INFO - Writing 'Proyecto.bbl' with encoding 'UTF-8'
+[1784] bbl.pm:779> INFO - Output to Proyecto.bbl
