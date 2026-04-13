@@ -586,6 +586,42 @@
       \endverb
       \keyw{ICT,Carbon footprint,Global emissions,Global warming,Software,Data centers}
     \endentry
+    \entry{MundoPosgrado01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddf536a01f1874924e05cc03cfab1b50}{%
+           family={Calzadilla},
+           familyi={C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Mundo Posgrado}%
+      }
+      \strng{namehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{fullhash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{fullhashraw}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{bibnamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorbibnamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authornamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorfullhash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorfullhashraw}{ddf536a01f1874924e05cc03cfab1b50}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el EdTech y por qué es tan importante?.}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.mundoposgrado.com/que-es-el-edtech-y-por-que-es-tan-importante/
+      \endverb
+      \verb{url}
+      \verb https://www.mundoposgrado.com/que-es-el-edtech-y-por-que-es-tan-importante/
+      \endverb
+    \endentry
     \entry{Departamento01}{report}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7711584b00fb50ff270c51f55cf40784}{%
@@ -639,39 +675,6 @@
       \endverb
       \verb{url}
       \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
-      \endverb
-    \endentry
-    \entry{CEUPE01}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b34ca48d1c2ef54a49f6a6a45158c72}{%
-           family={CEUPE},
-           familyi={C\bibinitperiod},
-           given={Redacción},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{fullhash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{fullhashraw}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{bibnamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorbibnamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authornamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorfullhash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorfullhashraw}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Cómo hacer un modelo de negocios canvas?}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
-      \endverb
-      \verb{url}
-      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
       \endverb
     \endentry
     \entry{RevistaCIES01}{article}{}{}
@@ -2598,6 +2601,36 @@
       \endverb
       \verb{url}
       \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+    \endentry
+    \entry{CEUPE01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74ffca6da223ac1b8e25b0ab4ec292fd}{%
+           family={{Redacción CEUPE}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{fullhash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{fullhashraw}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{bibnamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorbibnamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authornamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorfullhash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorfullhashraw}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Cómo hacer un modelo de negocios canvas?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
+      \endverb
+      \verb{url}
+      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
       \endverb
     \endentry
     \entry{BancoMundial01}{report}{}{}
@@ -3575,6 +3608,42 @@
       \endverb
       \keyw{ICT,Carbon footprint,Global emissions,Global warming,Software,Data centers}
     \endentry
+    \entry{MundoPosgrado01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddf536a01f1874924e05cc03cfab1b50}{%
+           family={Calzadilla},
+           familyi={C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Mundo Posgrado}%
+      }
+      \strng{namehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{fullhash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{fullhashraw}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{bibnamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorbibnamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authornamehash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorfullhash}{ddf536a01f1874924e05cc03cfab1b50}
+      \strng{authorfullhashraw}{ddf536a01f1874924e05cc03cfab1b50}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el EdTech y por qué es tan importante?.}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.mundoposgrado.com/que-es-el-edtech-y-por-que-es-tan-importante/
+      \endverb
+      \verb{url}
+      \verb https://www.mundoposgrado.com/que-es-el-edtech-y-por-que-es-tan-importante/
+      \endverb
+    \endentry
     \entry{Departamento01}{report}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7711584b00fb50ff270c51f55cf40784}{%
@@ -3628,39 +3697,6 @@
       \endverb
       \verb{url}
       \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
-      \endverb
-    \endentry
-    \entry{CEUPE01}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b34ca48d1c2ef54a49f6a6a45158c72}{%
-           family={CEUPE},
-           familyi={C\bibinitperiod},
-           given={Redacción},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{fullhash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{fullhashraw}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{bibnamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorbibnamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authornamehash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorfullhash}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \strng{authorfullhashraw}{4b34ca48d1c2ef54a49f6a6a45158c72}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Cómo hacer un modelo de negocios canvas?}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
-      \endverb
-      \verb{url}
-      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
       \endverb
     \endentry
     \entry{RevistaCIES01}{article}{}{}
@@ -5587,6 +5623,36 @@
       \endverb
       \verb{url}
       \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+    \endentry
+    \entry{CEUPE01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74ffca6da223ac1b8e25b0ab4ec292fd}{%
+           family={{Redacción CEUPE}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{fullhash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{fullhashraw}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{bibnamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorbibnamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authornamehash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorfullhash}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \strng{authorfullhashraw}{74ffca6da223ac1b8e25b0ab4ec292fd}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Cómo hacer un modelo de negocios canvas?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
+      \endverb
+      \verb{url}
+      \verb https://www.ceupe.do/blog/como-hacer-un-modelo-de-negocios-canvas.html
       \endverb
     \endentry
     \entry{BancoMundial01}{report}{}{}
