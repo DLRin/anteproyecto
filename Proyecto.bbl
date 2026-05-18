@@ -472,6 +472,39 @@
       \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
       \endverb
     \endentry
+    \entry{BanRepEduca01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e695a26b22b0172666f9eb583433dfc5}{%
+           family={{Banco de la República de Colombia}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{fullhash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{fullhashraw}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{bibnamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorbibnamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authornamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorfullhash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorfullhashraw}{e695a26b22b0172666f9eb583433dfc5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Económica (Banrep Educa)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.banrep.gov.co/es/banrep-educa
+      \endverb
+      \verb{url}
+      \verb https://www.banrep.gov.co/es/banrep-educa
+      \endverb
+    \endentry
     \entry{Bancolombia01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f73e6e8fd4fced48f253752c8570370d}{%
@@ -2712,6 +2745,42 @@
       \verb https://www.rbi.org.in/financialeducation/
       \endverb
     \endentry
+    \entry{SecretariaBogota01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c04c7b74ab0b51faae5893d334e62da0}{%
+           family={Rivera},
+           familyi={R\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Alcaldía de Bogotá}%
+      }
+      \strng{namehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{fullhash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{fullhashraw}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{bibnamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorbibnamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authornamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorfullhash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorfullhashraw}{c04c7b74ab0b51faae5893d334e62da0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accede al curso gratis virtual de educación financiera con la Escuela del Hábitat en Bogotá}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://bogota.gov.co/mi-ciudad/habitat/curso-gratis-en-bogota-de-educacion-financiera-con-habitat-2025
+      \endverb
+      \verb{url}
+      \verb https://bogota.gov.co/mi-ciudad/habitat/curso-gratis-en-bogota-de-educacion-financiera-con-habitat-2025
+      \endverb
+    \endentry
     \entry{Banrep_Mapeo2024}{report}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6b8659077950bf0af3e3d4f2795203a7}{%
@@ -2976,6 +3045,39 @@
       \endverb
       \verb{url}
       \verb https://comunicacion.uva.es/en/detalle/Un-proyecto-europeo-prepara-dos-herramientas-digitales-que-educaran-en-finanzas-a-estudiantes-y-profesionales
+      \endverb
+    \endentry
+    \entry{UniverRosario01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5e3f298cb77a4fa6b8df5d5c41119162}{%
+           family={{Universidad del Rosario}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad del Rosario}%
+      }
+      \strng{namehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{fullhash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{fullhashraw}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{bibnamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorbibnamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authornamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorfullhash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorfullhashraw}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Financiera para Niños y Jóvenes}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://educacioncontinua.urosario.edu.co/facultad-economia/curso/educacion-financiera-para-ninos-jovenes
+      \endverb
+      \verb{url}
+      \verb https://educacioncontinua.urosario.edu.co/facultad-economia/curso/educacion-financiera-para-ninos-jovenes
       \endverb
     \endentry
     \entry{UniversidadEuropea01}{online}{}{}
@@ -3494,6 +3596,39 @@
       \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
       \endverb
     \endentry
+    \entry{BanRepEduca01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e695a26b22b0172666f9eb583433dfc5}{%
+           family={{Banco de la República de Colombia}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco de la República}%
+      }
+      \strng{namehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{fullhash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{fullhashraw}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{bibnamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorbibnamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authornamehash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorfullhash}{e695a26b22b0172666f9eb583433dfc5}
+      \strng{authorfullhashraw}{e695a26b22b0172666f9eb583433dfc5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Económica (Banrep Educa)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.banrep.gov.co/es/banrep-educa
+      \endverb
+      \verb{url}
+      \verb https://www.banrep.gov.co/es/banrep-educa
+      \endverb
+    \endentry
     \entry{Bancolombia01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f73e6e8fd4fced48f253752c8570370d}{%
@@ -5734,6 +5869,42 @@
       \verb https://www.rbi.org.in/financialeducation/
       \endverb
     \endentry
+    \entry{SecretariaBogota01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c04c7b74ab0b51faae5893d334e62da0}{%
+           family={Rivera},
+           familyi={R\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Alcaldía de Bogotá}%
+      }
+      \strng{namehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{fullhash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{fullhashraw}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{bibnamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorbibnamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authornamehash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorfullhash}{c04c7b74ab0b51faae5893d334e62da0}
+      \strng{authorfullhashraw}{c04c7b74ab0b51faae5893d334e62da0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accede al curso gratis virtual de educación financiera con la Escuela del Hábitat en Bogotá}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://bogota.gov.co/mi-ciudad/habitat/curso-gratis-en-bogota-de-educacion-financiera-con-habitat-2025
+      \endverb
+      \verb{url}
+      \verb https://bogota.gov.co/mi-ciudad/habitat/curso-gratis-en-bogota-de-educacion-financiera-con-habitat-2025
+      \endverb
+    \endentry
     \entry{Banrep_Mapeo2024}{report}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6b8659077950bf0af3e3d4f2795203a7}{%
@@ -5998,6 +6169,39 @@
       \endverb
       \verb{url}
       \verb https://comunicacion.uva.es/en/detalle/Un-proyecto-europeo-prepara-dos-herramientas-digitales-que-educaran-en-finanzas-a-estudiantes-y-profesionales
+      \endverb
+    \endentry
+    \entry{UniverRosario01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5e3f298cb77a4fa6b8df5d5c41119162}{%
+           family={{Universidad del Rosario}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad del Rosario}%
+      }
+      \strng{namehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{fullhash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{fullhashraw}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{bibnamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorbibnamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authornamehash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorfullhash}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \strng{authorfullhashraw}{5e3f298cb77a4fa6b8df5d5c41119162}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Financiera para Niños y Jóvenes}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://educacioncontinua.urosario.edu.co/facultad-economia/curso/educacion-financiera-para-ninos-jovenes
+      \endverb
+      \verb{url}
+      \verb https://educacioncontinua.urosario.edu.co/facultad-economia/curso/educacion-financiera-para-ninos-jovenes
       \endverb
     \endentry
     \entry{UniversidadEuropea01}{online}{}{}
