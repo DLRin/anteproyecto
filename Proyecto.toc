@@ -121,33 +121,33 @@
 \contentsline {subsection}{Flujo de caja}{116}{section*.193}%
 \contentsline {subsection}{Flujo de efectivo}{117}{section*.195}%
 \contentsline {subsection}{Punto de equilibrio}{118}{section*.197}%
-\contentsline {subsection}{Indicadores financieros}{120}{section*.202}%
-\contentsline {section}{Plan de Negocios}{124}{section*.206}%
-\contentsline {subsection}{Matriz PEYEA}{124}{section*.207}%
-\contentsline {subsubsection}{Dimensión interna}{127}{section*.209}%
-\contentsline {paragraph}{Fortalezas financieras}{128}{section*.209}%
+\contentsline {subsection}{Indicadores financieros}{121}{section*.203}%
+\contentsline {section}{Plan de Negocios}{124}{section*.207}%
+\contentsline {subsection}{Matriz PEYEA}{124}{section*.208}%
+\contentsline {subsubsection}{Dimensión interna}{127}{section*.210}%
+\contentsline {paragraph}{Fortalezas financieras}{128}{section*.210}%
 \contentsline {paragraph}{Ventajas competitivas}{128}{table.34}%
-\contentsline {subsubsection}{Dimensión externa}{129}{section*.210}%
-\contentsline {paragraph}{Fortaleza industrial}{129}{section*.210}%
+\contentsline {subsubsection}{Dimensión externa}{129}{section*.211}%
+\contentsline {paragraph}{Fortaleza industrial}{129}{section*.211}%
 \contentsline {paragraph}{Estabilidad del ambiente}{130}{table.36}%
-\contentsline {subsubsection}{Resultados matriz PEYEA}{130}{section*.211}%
-\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{132}{section*.213}%
-\contentsline {subsection}{Matriz DOFA}{133}{section*.214}%
-\contentsline {subsection}{Análisis DOFA}{135}{section*.217}%
-\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{136}{section*.218}%
-\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{136}{section*.219}%
-\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{137}{section*.220}%
-\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{137}{section*.221}%
-\contentsline {section}{Análisis de Riesgo}{138}{section*.222}%
-\contentsline {subsection}{Factores limitantes}{138}{section*.223}%
-\contentsline {subsection}{Factores claves de éxito}{139}{section*.224}%
-\contentsline {subsection}{Riesgos legales}{140}{section*.225}%
-\contentsline {subsection}{Riesgos operacionales}{141}{section*.226}%
-\contentsline {section}{Impactos}{143}{section*.227}%
-\contentsline {subsection}{Impactos sociales}{143}{section*.228}%
-\contentsline {subsection}{Impactos ambientales}{144}{section*.229}%
-\contentsline {subsection}{Impactos económicos}{145}{section*.230}%
-\contentsline {subsection}{Impactos tecnológicos}{146}{section*.231}%
-\contentsline {section}{Conclusiones}{147}{section*.232}%
-\contentsline {section}{Anexos}{149}{section*.233}%
-\contentsline {section}{Referencias}{151}{table.caption.235}%
+\contentsline {subsubsection}{Resultados matriz PEYEA}{130}{section*.212}%
+\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{132}{section*.214}%
+\contentsline {subsection}{Matriz DOFA}{133}{section*.215}%
+\contentsline {subsection}{Análisis DOFA}{135}{section*.218}%
+\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{136}{section*.219}%
+\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{136}{section*.220}%
+\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{137}{section*.221}%
+\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{137}{section*.222}%
+\contentsline {section}{Análisis de Riesgo}{138}{section*.223}%
+\contentsline {subsection}{Factores limitantes}{138}{section*.224}%
+\contentsline {subsection}{Factores claves de éxito}{139}{section*.225}%
+\contentsline {subsection}{Riesgos legales}{140}{section*.226}%
+\contentsline {subsection}{Riesgos operacionales}{141}{section*.227}%
+\contentsline {section}{Impactos}{143}{section*.228}%
+\contentsline {subsection}{Impactos sociales}{143}{section*.229}%
+\contentsline {subsection}{Impactos ambientales}{144}{section*.230}%
+\contentsline {subsection}{Impactos económicos}{145}{section*.231}%
+\contentsline {subsection}{Impactos tecnológicos}{146}{section*.232}%
+\contentsline {section}{Conclusiones}{147}{section*.233}%
+\contentsline {section}{Anexos}{149}{section*.234}%
+\contentsline {section}{Referencias}{151}{table.caption.236}%

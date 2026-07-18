@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  8 JUL 2026 12:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  18 JUL 2026 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1275,7 +1275,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [2]
-<Imagenes/ArboldeProblemas.png, id=717, 610.53094pt x 447.17062pt>
+<Imagenes/ArboldeProblemas.png, id=720, 610.53094pt x 447.17062pt>
 File: Imagenes/ArboldeProblemas.png Graphic file (type png)
 <use Imagenes/ArboldeProblemas.png>
 Package pdftex.def Info: Imagenes/ArboldeProblemas.png  used on input line 13.
@@ -1426,7 +1426,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [17] (Contenido/04. Marco Teorico/DescripcionDeCompetencia.tex
-<Imagenes/LogoDavivienda.png, id=851, 3854.4pt x 2168.1pt>
+<Imagenes/LogoDavivienda.png, id=854, 3854.4pt x 2168.1pt>
 File: Imagenes/LogoDavivienda.png Graphic file (type png)
 <use Imagenes/LogoDavivienda.png>
 Package pdftex.def Info: Imagenes/LogoDavivienda.png  used on input line 13.
@@ -1524,7 +1524,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [26]
-<Imagenes/LogoVivaSeguro.jpg, id=947, 325.215pt x 155.58125pt>
+<Imagenes/LogoVivaSeguro.jpg, id=950, 325.215pt x 155.58125pt>
 File: Imagenes/LogoVivaSeguro.jpg Graphic file (type jpg)
 <use Imagenes/LogoVivaSeguro.jpg>
 Package pdftex.def Info: Imagenes/LogoVivaSeguro.jpg  used on input line 25.
@@ -1584,7 +1584,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [32]) (Contenido/04. Marco Teorico/Competencia.tex
-<Imagenes/LogoBConomy.png, id=1013, 415.5525pt x 122.4575pt>
+<Imagenes/LogoBConomy.png, id=1016, 415.5525pt x 122.4575pt>
 File: Imagenes/LogoBConomy.png Graphic file (type png)
 <use Imagenes/LogoBConomy.png>
 Package pdftex.def Info: Imagenes/LogoBConomy.png  used on input line 14.
@@ -1599,7 +1599,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [33]
-<Imagenes/LogoFintonic.png, id=1021, 301.125pt x 168.63pt>
+<Imagenes/LogoFintonic.png, id=1024, 301.125pt x 168.63pt>
 File: Imagenes/LogoFintonic.png Graphic file (type png)
 <use Imagenes/LogoFintonic.png>
 Package pdftex.def Info: Imagenes/LogoFintonic.png  used on input line 27.
@@ -1614,7 +1614,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [34 <./Imagenes/LogoBConomy.png> <./Imagenes/LogoFintonic.png>]
-<Imagenes/LogoNequi.png, id=1030, 903.375pt x 508.14844pt>
+<Imagenes/LogoNequi.png, id=1033, 903.375pt x 508.14844pt>
 File: Imagenes/LogoNequi.png Graphic file (type png)
 <use Imagenes/LogoNequi.png>
 Package pdftex.def Info: Imagenes/LogoNequi.png  used on input line 40.
@@ -1666,7 +1666,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [39]
-<Imagenes/PlantillaModeloCanvas.jpg, id=1061, 880.79062pt x 495.35063pt>
+<Imagenes/PlantillaModeloCanvas.jpg, id=1064, 880.79062pt x 495.35063pt>
 File: Imagenes/PlantillaModeloCanvas.jpg Graphic file (type jpg)
 <use Imagenes/PlantillaModeloCanvas.jpg>
 Package pdftex.def Info: Imagenes/PlantillaModeloCanvas.jpg  used on input line
@@ -1713,7 +1713,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [43]
-<Imagenes/ModeloCanvas.png, id=1080, 770.88pt x 578.16pt>
+<Imagenes/ModeloCanvas.png, id=1083, 770.88pt x 578.16pt>
 File: Imagenes/ModeloCanvas.png Graphic file (type png)
 <use Imagenes/ModeloCanvas.png>
 Package pdftex.def Info: Imagenes/ModeloCanvas.png  used on input line 10.
@@ -1825,7 +1825,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [53
 
 ]) (Contenido/08. Información de la Empresa/Modelo Organizacional.tex
-<Imagenes/ModeloOrganizacional.png, id=1136, 924.45375pt x 462.72874pt>
+<Imagenes/ModeloOrganizacional.png, id=1139, 924.45375pt x 462.72874pt>
 File: Imagenes/ModeloOrganizacional.png Graphic file (type png)
 <use Imagenes/ModeloOrganizacional.png>
 Package pdftex.def Info: Imagenes/ModeloOrganizacional.png  used on input line 
@@ -1863,7 +1863,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [56]
-<Imagenes/PasosInboundMarketing.jpeg, id=1154, 2358.8125pt x 1084.05pt>
+<Imagenes/PasosInboundMarketing.jpeg, id=1157, 2358.8125pt x 1084.05pt>
 File: Imagenes/PasosInboundMarketing.jpeg Graphic file (type jpg)
 <use Imagenes/PasosInboundMarketing.jpeg>
 Package pdftex.def Info: Imagenes/PasosInboundMarketing.jpeg  used on input lin
@@ -1942,7 +1942,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [64]
-<Imagenes/MetodologiaLeanStartUp.png, id=1198, 1027.84pt x 578.16pt>
+<Imagenes/MetodologiaLeanStartUp.png, id=1201, 1027.84pt x 578.16pt>
 File: Imagenes/MetodologiaLeanStartUp.png Graphic file (type png)
 <use Imagenes/MetodologiaLeanStartUp.png>
 Package pdftex.def Info: Imagenes/MetodologiaLeanStartUp.png  used on input lin
@@ -1983,7 +1983,7 @@ cia h[]^^Pbri-da que em-plea sis-te-mas re-la-cio-na-les (\OT1/ptm/b/n/12 Postg
 reSQL\OT1/ptm/m/n/12 )
  []
 
-<Imagenes/arquitectura.png, id=1218, 7568.275pt x 5369.05875pt>
+<Imagenes/arquitectura.png, id=1221, 7568.275pt x 5369.05875pt>
 File: Imagenes/arquitectura.png Graphic file (type png)
 <use Imagenes/arquitectura.png>
 Package pdftex.def Info: Imagenes/arquitectura.png  used on input line 35.
@@ -1998,7 +1998,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [68]
-<Imagenes/despliegue.png, id=1225, 4422.5225pt x 3869.45625pt>
+<Imagenes/despliegue.png, id=1228, 4422.5225pt x 3869.45625pt>
 File: Imagenes/despliegue.png Graphic file (type png)
 <use Imagenes/despliegue.png>
 Package pdftex.def Info: Imagenes/despliegue.png  used on input line 46.
@@ -2271,17 +2271,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [86]
-<Imagenes/CasoUsoRF01.png, id=1325, 524.96124pt x 362.35374pt>
+<Imagenes/CasoUsoRF01.png, id=1328, 524.96124pt x 362.35374pt>
 File: Imagenes/CasoUsoRF01.png Graphic file (type png)
 <use Imagenes/CasoUsoRF01.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF01.png  used on input line 398.
 (pdftex.def)             Requested size: 341.43306pt x 235.68195pt.
-<Imagenes/CasoUsoRF02.png, id=1326, 524.96124pt x 362.35374pt>
+<Imagenes/CasoUsoRF02.png, id=1329, 524.96124pt x 362.35374pt>
 File: Imagenes/CasoUsoRF02.png Graphic file (type png)
 <use Imagenes/CasoUsoRF02.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF02.png  used on input line 405.
 (pdftex.def)             Requested size: 341.43306pt x 235.68195pt.
-<Imagenes/CasoUsoRF03.png, id=1327, 729.72626pt x 432.61626pt>
+<Imagenes/CasoUsoRF03.png, id=1330, 729.72626pt x 432.61626pt>
 File: Imagenes/CasoUsoRF03.png Graphic file (type png)
 <use Imagenes/CasoUsoRF03.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF03.png  used on input line 412.
@@ -2296,12 +2296,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [87 <./Imagenes/CasoUsoRF01.png> <./Imagenes/CasoUsoRF02.png>]
-<Imagenes/CasoUsoRF04.png, id=1334, 748.7975pt x 583.17876pt>
+<Imagenes/CasoUsoRF04.png, id=1337, 748.7975pt x 583.17876pt>
 File: Imagenes/CasoUsoRF04.png Graphic file (type png)
 <use Imagenes/CasoUsoRF04.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF04.png  used on input line 419.
 (pdftex.def)             Requested size: 341.43306pt x 265.91626pt.
-<Imagenes/CasoUsoRF05.png, id=1335, 759.83875pt x 513.92pt>
+<Imagenes/CasoUsoRF05.png, id=1338, 759.83875pt x 513.92pt>
 File: Imagenes/CasoUsoRF05.png Graphic file (type png)
 <use Imagenes/CasoUsoRF05.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF05.png  used on input line 426.
@@ -2316,12 +2316,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [88 <./Imagenes/CasoUsoRF03.png> <./Imagenes/CasoUsoRF04.png>]
-<Imagenes/CasoUsoRF06.png, id=1342, 960.58875pt x 512.91624pt>
+<Imagenes/CasoUsoRF06.png, id=1345, 960.58875pt x 512.91624pt>
 File: Imagenes/CasoUsoRF06.png Graphic file (type png)
 <use Imagenes/CasoUsoRF06.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF06.png  used on input line 433.
 (pdftex.def)             Requested size: 341.43306pt x 182.30959pt.
-<Imagenes/CasoUsoRF07.png, id=1343, 708.6475pt x 432.61626pt>
+<Imagenes/CasoUsoRF07.png, id=1346, 708.6475pt x 432.61626pt>
 File: Imagenes/CasoUsoRF07.png Graphic file (type png)
 <use Imagenes/CasoUsoRF07.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF07.png  used on input line 440.
@@ -2336,12 +2336,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [89 <./Imagenes/CasoUsoRF05.png> <./Imagenes/CasoUsoRF06.png>]
-<Imagenes/CasoUsoRF08.png, id=1350, 509.905pt x 544.0325pt>
+<Imagenes/CasoUsoRF08.png, id=1353, 509.905pt x 544.0325pt>
 File: Imagenes/CasoUsoRF08.png Graphic file (type png)
 <use Imagenes/CasoUsoRF08.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF08.png  used on input line 447.
 (pdftex.def)             Requested size: 341.43306pt x 364.30066pt.
-<Imagenes/CasoUsoRF09.png, id=1351, 708.6475pt x 492.84125pt>
+<Imagenes/CasoUsoRF09.png, id=1354, 708.6475pt x 492.84125pt>
 File: Imagenes/CasoUsoRF09.png Graphic file (type png)
 <use Imagenes/CasoUsoRF09.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF09.png  used on input line 454.
@@ -2356,12 +2356,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [90 <./Imagenes/CasoUsoRF07.png> <./Imagenes/CasoUsoRF08.png>]
-<Imagenes/CasoUsoRF10.png, id=1358, 775.89874pt x 502.87875pt>
+<Imagenes/CasoUsoRF10.png, id=1361, 775.89874pt x 502.87875pt>
 File: Imagenes/CasoUsoRF10.png Graphic file (type png)
 <use Imagenes/CasoUsoRF10.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF10.png  used on input line 461.
 (pdftex.def)             Requested size: 341.43306pt x 221.29034pt.
-<Imagenes/CasoUsoRF11.png, id=1359, 775.89874pt x 502.87875pt>
+<Imagenes/CasoUsoRF11.png, id=1362, 775.89874pt x 502.87875pt>
 File: Imagenes/CasoUsoRF11.png Graphic file (type png)
 <use Imagenes/CasoUsoRF11.png>
 Package pdftex.def Info: Imagenes/CasoUsoRF11.png  used on input line 468.
@@ -2376,12 +2376,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [91 <./Imagenes/CasoUsoRF09.png> <./Imagenes/CasoUsoRF10.png>]
-<Imagenes/principal.png, id=1366, 1389.69188pt x 752.8125pt>
+<Imagenes/principal.png, id=1369, 1389.69188pt x 752.8125pt>
 File: Imagenes/principal.png Graphic file (type png)
 <use Imagenes/principal.png>
 Package pdftex.def Info: Imagenes/principal.png  used on input line 482.
 (pdftex.def)             Requested size: 426.79134pt x 231.18694pt.
-<Imagenes/progreso.png, id=1367, 1377.64688pt x 770.12718pt>
+<Imagenes/progreso.png, id=1370, 1377.64688pt x 770.12718pt>
 File: Imagenes/progreso.png Graphic file (type png)
 <use Imagenes/progreso.png>
 Package pdftex.def Info: Imagenes/progreso.png  used on input line 489.
@@ -2396,12 +2396,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [92 <./Imagenes/CasoUsoRF11.png> <./Imagenes/principal.png>]
-<Imagenes/videoteca.png, id=1375, 1382.16376pt x 752.0597pt>
+<Imagenes/videoteca.png, id=1378, 1382.16376pt x 752.0597pt>
 File: Imagenes/videoteca.png Graphic file (type png)
 <use Imagenes/videoteca.png>
 Package pdftex.def Info: Imagenes/videoteca.png  used on input line 496.
 (pdftex.def)             Requested size: 426.79134pt x 232.21805pt.
-<Imagenes/planes.png, id=1376, 1382.91656pt x 770.12718pt>
+<Imagenes/planes.png, id=1379, 1382.91656pt x 770.12718pt>
 File: Imagenes/planes.png Graphic file (type png)
 <use Imagenes/planes.png>
 Package pdftex.def Info: Imagenes/planes.png  used on input line 503.
@@ -2416,7 +2416,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [93 <./Imagenes/progreso.png> <./Imagenes/videoteca.png>]
-<Imagenes/ruta.png, id=1383, 1380.65813pt x 777.65532pt>
+<Imagenes/ruta.png, id=1386, 1380.65813pt x 777.65532pt>
 File: Imagenes/ruta.png Graphic file (type png)
 <use Imagenes/ruta.png>
 Package pdftex.def Info: Imagenes/ruta.png  used on input line 510.
@@ -2510,7 +2510,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [102]
-<Imagenes/TablaImpactosAmbientales.png, id=1470, 568.37344pt x 340.27126pt>
+<Imagenes/TablaImpactosAmbientales.png, id=1473, 568.37344pt x 340.27126pt>
 File: Imagenes/TablaImpactosAmbientales.png Graphic file (type png)
 <use Imagenes/TablaImpactosAmbientales.png>
 Package pdftex.def Info: Imagenes/TablaImpactosAmbientales.png  used on input l
@@ -2545,14 +2545,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [105] (Contenido/10. Analisis Financiero/InversionInicial.tex
-<Imagenes/InversionInicial.png, id=1488, 559.33969pt x 199.49532pt>
+<Imagenes/InversionInicial.png, id=1491, 559.33969pt x 199.49532pt>
 File: Imagenes/InversionInicial.png Graphic file (type png)
 <use Imagenes/InversionInicial.png>
 Package pdftex.def Info: Imagenes/InversionInicial.png  used on input line 13.
 (pdftex.def)             Requested size: 341.43306pt x 121.78023pt.
 )
 (Contenido/10. Analisis Financiero/Establecimiento.tex
-<Imagenes/ActivosTangibles.png, id=1490, 800.23969pt x 134.75343pt>
+<Imagenes/ActivosTangibles.png, id=1493, 800.23969pt x 134.75343pt>
 File: Imagenes/ActivosTangibles.png Graphic file (type png)
 <use Imagenes/ActivosTangibles.png>
 Package pdftex.def Info: Imagenes/ActivosTangibles.png  used on input line 18.
@@ -2569,13 +2569,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [106
 
  <./Imagenes/InversionInicial.png>]
-<Imagenes/ActivosIntangibles.png, id=1497, 411.03563pt x 143.78719pt>
+<Imagenes/ActivosIntangibles.png, id=1500, 411.03563pt x 143.78719pt>
 File: Imagenes/ActivosIntangibles.png Graphic file (type png)
 <use Imagenes/ActivosIntangibles.png>
 Package pdftex.def Info: Imagenes/ActivosIntangibles.png  used on input line 32
 .
 (pdftex.def)             Requested size: 341.43306pt x 119.43987pt.
-<Imagenes/ActivosFijos.png, id=1499, 411.78844pt x 106.89937pt>
+<Imagenes/ActivosFijos.png, id=1502, 411.78844pt x 106.89937pt>
 File: Imagenes/ActivosFijos.png Graphic file (type png)
 <use Imagenes/ActivosFijos.png>
 Package pdftex.def Info: Imagenes/ActivosFijos.png  used on input line 46.
@@ -2591,7 +2591,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [107 <./Imagenes/ActivosTangibles.png> <./Imagenes/ActivosIntangibles.png> <./I
 magenes/ActivosFijos.png>]
-<Imagenes/TablaFinanciamiento.png, id=1508, 301.125pt x 100.87688pt>
+<Imagenes/TablaFinanciamiento.png, id=1511, 301.125pt x 100.87688pt>
 File: Imagenes/TablaFinanciamiento.png Graphic file (type png)
 <use Imagenes/TablaFinanciamiento.png>
 Package pdftex.def Info: Imagenes/TablaFinanciamiento.png  used on input line 6
@@ -2599,7 +2599,7 @@ Package pdftex.def Info: Imagenes/TablaFinanciamiento.png  used on input line 6
 (pdftex.def)             Requested size: 312.9803pt x 104.85866pt.
 )
 (Contenido/10. Analisis Financiero/IngresosEgresos.tex
-<Imagenes/TablaIngresos.png, id=1510, 718.93594pt x 100.12407pt>
+<Imagenes/TablaIngresos.png, id=1513, 718.93594pt x 100.12407pt>
 File: Imagenes/TablaIngresos.png Graphic file (type png)
 <use Imagenes/TablaIngresos.png>
 Package pdftex.def Info: Imagenes/TablaIngresos.png  used on input line 21.
@@ -2614,7 +2614,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [108 <./Imagenes/TablaFinanciamiento.png>]
-<Imagenes/TablaEgresosPQ.png, id=1517, 658.71094pt x 476.53032pt>
+<Imagenes/TablaEgresosPQ.png, id=1520, 658.71094pt x 476.53032pt>
 File: Imagenes/TablaEgresosPQ.png Graphic file (type png)
 <use Imagenes/TablaEgresosPQ.png>
 Package pdftex.def Info: Imagenes/TablaEgresosPQ.png  used on input line 37.
@@ -2630,7 +2630,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [109 <./Imagenes/TablaIngresos.png>]
 (Contenido/10. Analisis Financiero/ProyeccionVentas.tex
-<Imagenes/ProyeccionVentas.png, id=1524, 717.43031pt x 119.69719pt>
+<Imagenes/ProyeccionVentas.png, id=1527, 717.43031pt x 119.69719pt>
 File: Imagenes/ProyeccionVentas.png Graphic file (type png)
 <use Imagenes/ProyeccionVentas.png>
 Package pdftex.def Info: Imagenes/ProyeccionVentas.png  used on input line 12.
@@ -2645,14 +2645,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [110 <./Imagenes/TablaEgresosPQ.png>]
-<Imagenes/IPCFlujo.png, id=1532, 902.6222pt x 138.5175pt>
+<Imagenes/IPCFlujo.png, id=1535, 902.6222pt x 138.5175pt>
 File: Imagenes/IPCFlujo.png Graphic file (type png)
 <use Imagenes/IPCFlujo.png>
 Package pdftex.def Info: Imagenes/IPCFlujo.png  used on input line 21.
 (pdftex.def)             Requested size: 398.33858pt x 61.12965pt.
 )
 (Contenido/10. Analisis Financiero/AmortizacionDepreciacion.tex
-<Imagenes/Prestamo.png, id=1534, 310.15875pt x 140.77594pt>
+<Imagenes/Prestamo.png, id=1537, 310.15875pt x 140.77594pt>
 File: Imagenes/Prestamo.png Graphic file (type png)
 <use Imagenes/Prestamo.png>
 Package pdftex.def Info: Imagenes/Prestamo.png  used on input line 15.
@@ -2667,12 +2667,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [111 <./Imagenes/ProyeccionVentas.png> <./Imagenes/IPCFlujo.png>]
-<Imagenes/Amortizacion.png, id=1541, 557.83406pt x 140.77594pt>
+<Imagenes/Amortizacion.png, id=1544, 557.83406pt x 140.77594pt>
 File: Imagenes/Amortizacion.png Graphic file (type png)
 <use Imagenes/Amortizacion.png>
 Package pdftex.def Info: Imagenes/Amortizacion.png  used on input line 29.
 (pdftex.def)             Requested size: 369.88582pt x 93.3463pt.
-<Imagenes/Depreciacion.png, id=1543, 731.73375pt x 177.66376pt>
+<Imagenes/Depreciacion.png, id=1546, 731.73375pt x 177.66376pt>
 File: Imagenes/Depreciacion.png Graphic file (type png)
 <use Imagenes/Depreciacion.png>
 Package pdftex.def Info: Imagenes/Depreciacion.png  used on input line 43.
@@ -2697,7 +2697,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [113 <./Imagenes/Depreciacion.png>]
-<Imagenes/BalanceGeneralPQ.png, id=1558, 638.385pt x 532.23843pt>
+<Imagenes/BalanceGeneralPQ.png, id=1561, 638.385pt x 532.23843pt>
 File: Imagenes/BalanceGeneralPQ.png Graphic file (type png)
 <use Imagenes/BalanceGeneralPQ.png>
 Package pdftex.def Info: Imagenes/BalanceGeneralPQ.png  used on input line 27.
@@ -2712,7 +2712,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [114] (Contenido/10. Analisis Financiero/EstadoResultados.tex
-<Imagenes/EstadoResultadosPQ.png, id=1564, 814.54312pt x 415.5525pt>
+<Imagenes/EstadoResultadosPQ.png, id=1567, 814.54312pt x 415.5525pt>
 File: Imagenes/EstadoResultadosPQ.png Graphic file (type png)
 <use Imagenes/EstadoResultadosPQ.png>
 Package pdftex.def Info: Imagenes/EstadoResultadosPQ.png  used on input line 13
@@ -2729,7 +2729,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [115 <./Imagenes/BalanceGeneralPQ.png>]
 (Contenido/10. Analisis Financiero/FlujoCaja.tex
-<Imagenes/FlujoCajaPQ.png, id=1571, 740.0147pt x 454.69875pt>
+<Imagenes/FlujoCajaPQ.png, id=1574, 740.0147pt x 454.69875pt>
 File: Imagenes/FlujoCajaPQ.png Graphic file (type png)
 <use Imagenes/FlujoCajaPQ.png>
 Package pdftex.def Info: Imagenes/FlujoCajaPQ.png  used on input line 11.
@@ -2754,14 +2754,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [117 <./Imagenes/FlujoCajaPQ.png>]
-<Imagenes/FlujoEfectivoPQ.png, id=1583, 848.4197pt x 479.54156pt>
+<Imagenes/FlujoEfectivoPQ.png, id=1586, 848.4197pt x 479.54156pt>
 File: Imagenes/FlujoEfectivoPQ.png Graphic file (type png)
 <use Imagenes/FlujoEfectivoPQ.png>
 Package pdftex.def Info: Imagenes/FlujoEfectivoPQ.png  used on input line 23.
 (pdftex.def)             Requested size: 426.79134pt x 241.22632pt.
 )
 (Contenido/10. Analisis Financiero/PuntoEquilibrio.tex
-<Imagenes/CostosFijosPQ.png, id=1585, 523.20468pt x 176.91093pt>
+<Imagenes/CostosFijosPQ.png, id=1588, 523.20468pt x 176.91093pt>
 File: Imagenes/CostosFijosPQ.png Graphic file (type png)
 <use Imagenes/CostosFijosPQ.png>
 Package pdftex.def Info: Imagenes/CostosFijosPQ.png  used on input line 10.
@@ -2776,17 +2776,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [118 <./Imagenes/FlujoEfectivoPQ.png>]
-<Imagenes/EstimacionesPuntoPQ.png, id=1591, 350.81062pt x 126.4725pt>
-File: Imagenes/EstimacionesPuntoPQ.png Graphic file (type png)
-<use Imagenes/EstimacionesPuntoPQ.png>
-Package pdftex.def Info: Imagenes/EstimacionesPuntoPQ.png  used on input line 1
-9.
-(pdftex.def)             Requested size: 312.9803pt x 112.8419pt.
-<Imagenes/GraficaPuntoPQ.png, id=1592, 760.34062pt x 384.6872pt>
-File: Imagenes/GraficaPuntoPQ.png Graphic file (type png)
-<use Imagenes/GraficaPuntoPQ.png>
-Package pdftex.def Info: Imagenes/GraficaPuntoPQ.png  used on input line 28.
-(pdftex.def)             Requested size: 426.79134pt x 215.93404pt.
+<Imagenes/EstimacionesPuntoPQ2.png, id=1594, 350.81062pt x 72.27pt>
+File: Imagenes/EstimacionesPuntoPQ2.png Graphic file (type png)
+<use Imagenes/EstimacionesPuntoPQ2.png>
+Package pdftex.def Info: Imagenes/EstimacionesPuntoPQ2.png  used on input line 
+19.
+(pdftex.def)             Requested size: 312.9803pt x 64.48108pt.
+<Imagenes/GraficaPuntoPQ2.png, id=1595, 758.835pt x 389.95688pt>
+File: Imagenes/GraficaPuntoPQ2.png Graphic file (type png)
+<use Imagenes/GraficaPuntoPQ2.png>
+Package pdftex.def Info: Imagenes/GraficaPuntoPQ2.png  used on input line 28.
+(pdftex.def)             Requested size: 426.79134pt x 219.3264pt.
 
 
 
@@ -2796,15 +2796,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[119 <./Imagenes/CostosFijosPQ.png> <./Imagenes/EstimacionesPuntoPQ.png>]
-<Imagenes/PuntoEquilibrioPQ.png, id=1599, 353.06906pt x 74.52844pt>
-File: Imagenes/PuntoEquilibrioPQ.png Graphic file (type png)
-<use Imagenes/PuntoEquilibrioPQ.png>
-Package pdftex.def Info: Imagenes/PuntoEquilibrioPQ.png  used on input line 37.
-
-(pdftex.def)             Requested size: 284.52756pt x 60.06064pt.
+[119 <./Imagenes/CostosFijosPQ.png> <./Imagenes/EstimacionesPuntoPQ2.png>]
+<Imagenes/GraficaPuntoGeogebra.png, id=1602, 1101.36469pt x 605.26125pt>
+File: Imagenes/GraficaPuntoGeogebra.png Graphic file (type png)
+<use Imagenes/GraficaPuntoGeogebra.png>
+Package pdftex.def Info: Imagenes/GraficaPuntoGeogebra.png  used on input line 
+35.
+(pdftex.def)             Requested size: 426.79134pt x 234.54553pt.
+<Imagenes/PuntoEquilibrioPQ2.png, id=1603, 357.58594pt x 79.79813pt>
+File: Imagenes/PuntoEquilibrioPQ2.png Graphic file (type png)
+<use Imagenes/PuntoEquilibrioPQ2.png>
+Package pdftex.def Info: Imagenes/PuntoEquilibrioPQ2.png  used on input line 44
+.
+(pdftex.def)             Requested size: 284.52756pt x 63.49763pt.
 )
-(Contenido/10. Analisis Financiero/IndicadoresFinancieros.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2813,50 +2818,40 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[120 <./Imagenes/GraficaPuntoPQ.png> <./Imagenes/PuntoEquilibrioPQ.png>]
-<Imagenes/IndicadoresFinancierosPQ.png, id=1607, 587.19376pt x 139.27031pt>
+[120 <./Imagenes/GraficaPuntoPQ2.png> <./Imagenes/GraficaPuntoGeogebra.png>]
+(Contenido/10. Analisis Financiero/IndicadoresFinancieros.tex
+<Imagenes/IndicadoresFinancierosPQ.png, id=1611, 587.19376pt x 139.27031pt>
 File: Imagenes/IndicadoresFinancierosPQ.png Graphic file (type png)
 <use Imagenes/IndicadoresFinancierosPQ.png>
 Package pdftex.def Info: Imagenes/IndicadoresFinancierosPQ.png  used on input l
-ine 27.
+ine 26.
 (pdftex.def)             Requested size: 369.88582pt x 87.728pt.
 
-Overfull \hbox (10.8968pt too wide) in paragraph at lines 31--32
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[121 <./Imagenes/PuntoEquilibrioPQ2.png>]
+Overfull \hbox (10.8968pt too wide) in paragraph at lines 30--31
 []\OT1/ptm/m/n/12 Adicionalmente, se ana-li-za-ron los in-di-ca-do-res fi-nan-c
 ie-ros VAN, TIR y la re-la-ci[]on costo-beneficio,
  []
 
-<Imagenes/FlujoCajaLibrePQ.png, id=1609, 192.72pt x 161.10187pt>
+<Imagenes/FlujoCajaLibrePQ.png, id=1618, 192.72pt x 161.10187pt>
 File: Imagenes/FlujoCajaLibrePQ.png Graphic file (type png)
 <use Imagenes/FlujoCajaLibrePQ.png>
-Package pdftex.def Info: Imagenes/FlujoCajaLibrePQ.png  used on input line 36.
+Package pdftex.def Info: Imagenes/FlujoCajaLibrePQ.png  used on input line 35.
 (pdftex.def)             Requested size: 256.0748pt x 214.06122pt.
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[121 <./Imagenes/IndicadoresFinancierosPQ.png>]
-<Imagenes/VANTIRPQ.png, id=1615, 215.30438pt x 121.20282pt>
+<Imagenes/VANTIRPQ.png, id=1619, 215.30438pt x 121.20282pt>
 File: Imagenes/VANTIRPQ.png Graphic file (type png)
 <use Imagenes/VANTIRPQ.png>
-Package pdftex.def Info: Imagenes/VANTIRPQ.png  used on input line 45.
+Package pdftex.def Info: Imagenes/VANTIRPQ.png  used on input line 44.
 (pdftex.def)             Requested size: 256.0748pt x 144.1684pt.
-))
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[122 <./Imagenes/FlujoCajaLibrePQ.png> <./Imagenes/VANTIRPQ.png>]
-(Contenido/11. Análisis Interno y Externo/AnalisisIntExt.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2865,8 +2860,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[123] (Contenido/11. Análisis Interno y Externo/MatrizPEYEA.tex
-<Imagenes/MatrizPeyeaCuadrantes.png, id=1627, 749.80125pt x 537.50812pt>
+[122 <./Imagenes/IndicadoresFinancierosPQ.png> <./Imagenes/FlujoCajaLibrePQ.png
+>])) (Contenido/11. Análisis Interno y Externo/AnalisisIntExt.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[123 <./Imagenes/VANTIRPQ.png>]
+(Contenido/11. Análisis Interno y Externo/MatrizPEYEA.tex
+<Imagenes/MatrizPeyeaCuadrantes.png, id=1632, 749.80125pt x 537.50812pt>
 File: Imagenes/MatrizPeyeaCuadrantes.png Graphic file (type png)
 <use Imagenes/MatrizPeyeaCuadrantes.png>
 Package pdftex.def Info: Imagenes/MatrizPeyeaCuadrantes.png  used on input line
@@ -2936,7 +2942,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [130]
-<Imagenes/ResultadoMatrizPEYEA.png, id=1666, 348.55219pt x 264.23718pt>
+<Imagenes/ResultadoMatrizPEYEA.png, id=1671, 348.55219pt x 264.23718pt>
 File: Imagenes/ResultadoMatrizPEYEA.png Graphic file (type png)
 <use Imagenes/ResultadoMatrizPEYEA.png>
 Package pdftex.def Info: Imagenes/ResultadoMatrizPEYEA.png  used on input line 
@@ -2962,7 +2968,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [132 <./Imagenes/ResultadoMatrizPEYEA.png>])
 (Contenido/11. Análisis Interno y Externo/MatrizDOFA.tex
-<Imagenes/MatrizDOFAEjemplo.png, id=1680, 585.18625pt x 546.04pt>
+<Imagenes/MatrizDOFAEjemplo.png, id=1685, 585.18625pt x 546.04pt>
 File: Imagenes/MatrizDOFAEjemplo.png Graphic file (type png)
 <use Imagenes/MatrizDOFAEjemplo.png>
 Package pdftex.def Info: Imagenes/MatrizDOFAEjemplo.png  used on input line 10.
@@ -2987,7 +2993,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [134 <./Imagenes/MatrizDOFAEjemplo.png (PNG copy)>]
-<Imagenes/ResultadoMatrizDOFA.png, id=1691, 882.29625pt x 676.02562pt>
+<Imagenes/ResultadoMatrizDOFA.png, id=1696, 882.29625pt x 676.02562pt>
 File: Imagenes/ResultadoMatrizDOFA.png Graphic file (type png)
 <use Imagenes/ResultadoMatrizDOFA.png>
 Package pdftex.def Info: Imagenes/ResultadoMatrizDOFA.png  used on input line 3
@@ -3116,7 +3122,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [147]) (Contenido/BB. Anexos/Anexos.tex
-<Imagenes/MetodoCuadros.png, id=1770, 735.74875pt x 570.13pt>
+<Imagenes/MetodoCuadros.png, id=1775, 735.74875pt x 570.13pt>
 File: Imagenes/MetodoCuadros.png Graphic file (type png)
 <use Imagenes/MetodoCuadros.png>
 Package pdftex.def Info: Imagenes/MetodoCuadros.png  used on input line 7.
@@ -3324,10 +3330,10 @@ Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29515 strings out of 468132
- 577295 string characters out of 5430698
- 1484240 words of memory out of 5000000
- 56996 multiletter control sequences out of 15000+600000
+ 29524 strings out of 468132
+ 577634 string characters out of 5430698
+ 1484319 words of memory out of 5000000
+ 57004 multiletter control sequences out of 15000+600000
  648875 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,19n,90p,1267b,2903s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3341,9 +3347,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/david/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Proyecto.pdf (171 pages, 6322360 bytes).
+Output written on Proyecto.pdf (171 pages, 6369791 bytes).
 PDF statistics:
- 2587 PDF objects out of 2984 (max. 8388607)
- 541 named destinations out of 1000 (max. 500000)
- 1424 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2592 PDF objects out of 2984 (max. 8388607)
+ 542 named destinations out of 1000 (max. 500000)
+ 1429 words of extra memory for PDF output out of 10000 (max. 10000000)
 
